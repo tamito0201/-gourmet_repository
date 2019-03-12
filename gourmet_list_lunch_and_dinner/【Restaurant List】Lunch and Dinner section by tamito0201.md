@@ -83,6 +83,7 @@
 - [こぐま](https://ameblo.jp/choux-a-la-creme/entry-12414268347.html) （焼きカレー） 【[食べログ](https://tabelog.com/tokyo/A1312/A131203/13039956/)】
 - ★[SPICE cafe](http://ameblo.jp/choux-a-la-creme/entry-10014474081.html) （カレー） 【[食べログ](http://bit.ly/5vg8nZ)】
 - [フーチン](https://ameblo.jp/choux-a-la-creme/entry-12445171503.html) （中華料理） 【[食べログ](https://tabelog.com/tokyo/A1312/A131201/13047774/)】
+- [みたかや酒場](https://ameblo.jp/choux-a-la-creme/entry-12446294726.html) （居酒屋） 【[食べログ](https://tabelog.com/tokyo/A1312/A131201/13023536/)】
 
 #### 世田谷区
 
