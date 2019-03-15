@@ -208,7 +208,7 @@
 - ★[ファンタジスタ ドゥエ](https://ameblo.jp/choux-a-la-creme/entry-12401816920.html) （ピザ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13167230/)】
 - ★[福島屋](https://ameblo.jp/choux-a-la-creme/entry-12423515916.html) （おでん）【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13013990/)】
 - ★[豚組食堂](http://ameblo.jp/choux-a-la-creme/entry-11919562646.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13155331/)】
-- ★[豚大学](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)（[①](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)、[②](http://ameblo.jp/choux-a-la-creme/entry-12061020484.html)） （焼肉丼）　【[食べログ](http://tabelog.com/tokyo/A1301/A130103/13130245/)】
+- ★[豚大学](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)（[①](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)、[②](http://ameblo.jp/choux-a-la-creme/entry-120ｇ61020484.html)） （焼肉丼）　【[食べログ](http://tabelog.com/tokyo/A1301/A130103/13130245/)】
 - ★[プティ・ポワン](http://ameblo.jp/choux-a-la-creme/entry-10018663452.html) （フランス料理）　【[食べログ](http://bit.ly/ADDfoU)】 **【閉店】**
 - [ブリアンツァ6.1](http://ameblo.jp/choux-a-la-creme/entry-12144562674.html) （イタリア料理）　【[食べログ](http://tabelog.com/tokyo/A1308/A130801/13164191/)】
 - [松玄 麻布十番](https://ameblo.jp/choux-a-la-creme/entry-12447216290.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13001692/)】
@@ -283,7 +283,7 @@
 
 #### 愛媛県
 
-- [お好み焼みよし 駅前店](http://ameblo.jp/choux-a-la-creme/entry-12238323768.html)（お好み焼） 【[食べログ](https://tabelog.com/ehime/A3801/A380101/38004395/
+- [お好み焼みよし 駅前店](http://ameblo.jp/choux-a-la-creme/entry-12238323768.html)（お好み焼） 【[食べログ](https://tabelog.com/ehime/A3801/A380101/38004395/)
 - ★[ほづみ亭](http://ameblo.jp/choux-a-la-creme/entry-12238358832.html)（鯛めし） 【[食べログ](https://tabelog.com/ehime/A3804/A380401/38000392/)】
 
 #### 高知県
