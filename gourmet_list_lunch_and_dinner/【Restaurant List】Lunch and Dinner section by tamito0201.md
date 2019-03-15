@@ -322,12 +322,6 @@
 - ★[六兵衛](https://ameblo.jp/choux-a-la-creme/entry-12353997279.html)（郷土料理）　【[食べログ](https://tabelog.com/aomori/A0201/A020101/2000495/)】
 - ★[ゆうぎり](https://ameblo.jp/choux-a-la-creme/entry-12352954122.html) （郷土料理）　【[食べログ](https://tabelog.com/aomori/A0201/A020101/2000019/)】
 
-<span style="font-weight:bold;"><span style="color:#ff0000;">九州編のグルメリストを別記事として起こしました。</span></span>
-
-<span style="font-weight:bold;"><span style="color:#ff0000;">元のグルメリストは[こちら](https://ameblo.jp/choux-a-la-creme/entry-10384408563.html)から。</span></span>
-
-※★はオススメ。（2017年9月10日時点の情報です。）
-
 ![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### 九州
 
