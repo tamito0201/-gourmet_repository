@@ -225,7 +225,6 @@
 
 #### 目黒区
 
-- [とんき](http://ameblo.jp/choux-a-la-creme/entry-10016823072.html) （とんかつ）　【[食べログ](http://bit.ly/cfDEEI)】
 - ★[YASAKA](http://ameblo.jp/choux-a-la-creme/entry-10039906439.html) （焼鳥）　【[食べログ](http://bit.ly/c7Xx9T)】
 
 #### 国分寺市
