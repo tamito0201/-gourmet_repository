@@ -189,6 +189,7 @@
 - ★[ジーニーズ トーキョー（GENIES TOKYO）](http://ameblo.jp/choux-a-la-creme/entry-12128744499.html)（フレンチ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13170895/)】
 - [しゅうずかん](https://ameblo.jp/choux-a-la-creme/entry-12421007903.html)　（沖縄料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13048718/)】
 - ★[十番右京](https://ameblo.jp/choux-a-la-creme/entry-12392488018.html) （居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13129939/)】
+- [新香飯店](https://ameblo.jp/choux-a-la-creme/entry-12448141067.html) （中華料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13048910/)】
 - [中国飯店 富麗華](https://ameblo.jp/choux-a-la-creme/entry-12073840714.html) （中華料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13004967/)】
 - ★[たき下](https://ameblo.jp/choux-a-la-creme/entry-12370742662.html)（[①](https://ameblo.jp/choux-a-la-creme/entry-12419280512.html)、[②](https://ameblo.jp/choux-a-la-creme/entry-12370742662.html)） &nbsp;（魚料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13004451/)】
 - ★[ダルマット 六本木ヒルズ店 （DAL-MATTO）](https://ameblo.jp/choux-a-la-creme/entry-12397373164.html) （イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13162051/)】
