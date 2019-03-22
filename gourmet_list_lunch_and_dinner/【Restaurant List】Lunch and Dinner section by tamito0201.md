@@ -171,8 +171,9 @@
 - ★[金の羊](http://ameblo.jp/choux-a-la-creme/entry-10019738030.html) （ジンギスカン）　【[食べログ](http://bit.ly/9NSZq2)】
 - [串揚げ あげあげ](https://ameblo.jp/choux-a-la-creme/entry-12397396448.html) （串揚げ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13037191/)】
 - [鰓呼吸 麻布十番商店街](https://ameblo.jp/choux-a-la-creme/entry-12396666967.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13109642/)】
-- [仔羊こだわり屋](https://ameblo.jp/choux-a-la-creme/entry-12424977752.html) （ジンギスカン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13227627/)】
 - [ゴーシェ](http://ameblo.jp/choux-a-la-creme/entry-12140352056.html) （フレンチ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13175346/)】
+- ★[小滝野](https://ameblo.jp/choux-a-la-creme/entry-12448888143.html) （牛タンしゃぶ）　【[食べログ](https://tabelog.com/tokyo/A1316/A131602/13145984/)】
+- [仔羊こだわり屋](https://ameblo.jp/choux-a-la-creme/entry-12424977752.html) （ジンギスカン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13227627/)】
 - ★[香妃園](http://ameblo.jp/choux-a-la-creme/entry-12060124433.html) （中華料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13001271/)】
 - ★[魚BAR 一歩 麻布十番](https://ameblo.jp/choux-a-la-creme/entry-12400217694.html) （居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13142433/)】
 - [三と十](https://ameblo.jp/choux-a-la-creme/entry-12421069473.html)（鉄板焼）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13109731/)】
