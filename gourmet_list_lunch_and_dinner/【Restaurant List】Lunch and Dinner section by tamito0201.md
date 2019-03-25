@@ -398,6 +398,7 @@
 
 #### 筑豊
 
+- [朝日家](https://ameblo.jp/choux-a-la-creme/entry-12449663163.html)&nbsp;（田川ホルモン） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40009627/)】
 - [味の蔵めん処九ちゃん](https://ameblo.jp/choux-a-la-creme/entry-12324473173.html)&nbsp;（うどん） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40009395/)】
 - [梓屋](https://ameblo.jp/choux-a-la-creme/entry-12316093443.html) （フレンチ） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400701/40004519/)】
 - [うどん屋 仁](http://ameblo.jp/choux-a-la-creme/entry-12283742779.html)&nbsp;（うどん） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400701/40012346/dtlmenu/photo/)】
