@@ -150,7 +150,6 @@
 - [いとはん](http://ameblo.jp/choux-a-la-creme/entry-12134262642.html) （お好み焼）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13049553/)】
 - ★[イマサラ 麻布十番本店](http://ameblo.jp/choux-a-la-creme/entry-12085466896.html) （しゃぶしゃぶ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13058115/)】
 - [ヴィネリア サクラ ランドリー](https://ameblo.jp/choux-a-la-creme/entry-12372809566.html)（イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13138420/)】
-
 - ★[歌京](https://ameblo.jp/choux-a-la-creme/entry-12370666734.html) （トリュフ卵かけご飯）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13185135/)】
 - ★[永新](https://ameblo.jp/choux-a-la-creme/entry-10384409724.html) （中華料理）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-10384409724.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12372295237.html" target="_blank">➁</a>)&nbsp;</font></font></font> （中華料理）
@@ -428,9 +427,11 @@
 
 #### 遠賀町
 
-- [てるのちゃんぽん亭](https://ameblo.jp/choux-a-la-creme/entry-12335239059.html)&nbsp;（ちゃんぽん） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400603/40028189/)】
+- [はまゆう（道の駅むなかた）](https://ameblo.jp/choux-a-la-creme/entry-12450038974.html)&nbsp;（海鮮丼） 【[食べログ](https://tabelog.com/fukuoka/A4003/A400302/40019737/)】
 - [マグロのマルジン](https://ameblo.jp/choux-a-la-creme/entry-12324473173.html)&nbsp;（まぐろ丼） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400603/40027261/)】
 
+#### 宗像市
+- [てるのちゃんぽん亭](https://ameblo.jp/choux-a-la-creme/entry-12335239059.html)&nbsp;（ちゃんぽん） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400603/40028189/)】
 
 #### 久留米市
 - [五臓六腑dining源家](https://ameblo.jp/choux-a-la-creme/entry-12305928747.html) （居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4008/A400801/40008481/)】（久留米市）
