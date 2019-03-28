@@ -414,6 +414,7 @@
 - ★[ヒシミツ](https://ameblo.jp/choux-a-la-creme/entry-12327441711.html)&nbsp;（イタリアン） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40046082/)】
 - [松葉うどん](http://ameblo.jp/choux-a-la-creme/entry-12222008699.html)&nbsp; （うどん） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40010044/)】
 - [みらい工房](https://ameblo.jp/choux-a-la-creme/entry-12338240219.html)&nbsp;（イタリアン） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40023944/)】
+- [むつごろおう](https://ameblo.jp/choux-a-la-creme/entry-12450268938.html)&nbsp;（居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40004928/)】
 - ★[焼肉TORAYA](http://ameblo.jp/choux-a-la-creme/entry-12246569859.html)（焼肉） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400601/40042311/)】
 - [焼肉のMr.青木](http://ameblo.jp/choux-a-la-creme/entry-11687047340.html) （焼肉） 【[食べログ](http://tabelog.com/fukuoka/A4007/A400702/40009760/)】
 - ★[藪](https://ameblo.jp/choux-a-la-creme/entry-12438573048.html) （うどん）
