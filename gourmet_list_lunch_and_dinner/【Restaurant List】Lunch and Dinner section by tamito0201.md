@@ -425,6 +425,7 @@
 #### 行橋市
 
 - ★[Italian Bar Lunetta（イタリアンバール ルネッタ）](https://ameblo.jp/choux-a-la-creme/entry-12329468006.html)&nbsp;（イタリアン） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400601/40039279/)】
+- [ケーキ パスタ&バール いすずカフェ](https://ameblo.jp/choux-a-la-creme/entry-12450535537.html))&nbsp;（カフェ） 【[食べログ](https://tabelog.com/fukuoka/A4006/A400601/40040841/)】
 
 #### 遠賀町
 
