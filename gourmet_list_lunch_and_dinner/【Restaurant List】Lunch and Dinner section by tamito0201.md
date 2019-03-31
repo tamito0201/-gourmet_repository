@@ -62,7 +62,8 @@
 
 - [うしごろ 貫 恵比寿本店](https://ameblo.jp/choux-a-la-creme/entry-12427836489.html)&nbsp;（焼肉） 【[食べログ](https://ameblo.jp/choux-a-la-creme/entry-12427836489.html)】
 - ★[鶏味座屋台](http://ameblo.jp/choux-a-la-creme/entry-12066077685.html) （親子丼） 【[食べログ](http://tabelog.com/tokyo/A1303/A130301/13150523/)】
-- ★[季織亭](https://ameblo.jp/choux-a-la-creme/entry-12386859756.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13207222/)】
+- ★[酢重 インディゴ （Indigo）](https://ameblo.jp/choux-a-la-creme/entry-12450961176.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225911/)】
+ ★[季織亭](https://ameblo.jp/choux-a-la-creme/entry-12386859756.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13207222/)】
 - ★[BeTTei（ベッテイ）](https://ameblo.jp/choux-a-la-creme/entry-12433800746.html)&nbsp;（鴨しゃぶ）&nbsp;【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13137494/)】
 - [トモカ コーヒー （TO.MO.CA. Coffee）](https://ameblo.jp/choux-a-la-creme/entry-12389332996.html)&nbsp;（珈琲） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
 - [マル・デ・クリスチアノ （Mar de Cristiano）](https://ameblo.jp/choux-a-la-creme/entry-12389358025.html) （ポルトガル料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13173123/)】
