@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07424cbd-8b6b-4c09-90f5-b4aad3b1b81b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="325">
-                <caret line="64" column="149" selection-start-line="64" selection-start-column="149" selection-end-line="64" selection-end-column="149" />
+              <first_editor relative-caret-position="240">
+                <caret line="63" column="143" selection-start-line="63" selection-start-column="143" selection-end-line="63" selection-end-column="143" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -28,6 +27,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML State" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,10 +46,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="868" />
-    <option name="y" value="84" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="2586" />
-    <option name="height" value="1370" />
+    <option name="height" value="1386" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -109,12 +115,12 @@
       <workItem from="1553199840609" duration="1274000" />
       <workItem from="1553465823110" duration="2490000" />
       <workItem from="1553809604503" duration="2383000" />
-      <workItem from="1554016895719" duration="650000" />
+      <workItem from="1554016895719" duration="2180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9433000" />
+    <option name="totallyTimeSpent" value="10963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -161,8 +167,8 @@
     <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="325">
-            <caret line="64" column="149" selection-start-line="64" selection-start-column="149" selection-end-line="64" selection-end-column="149" />
+          <first_editor relative-caret-position="240">
+            <caret line="63" column="143" selection-start-line="63" selection-start-column="143" selection-end-line="63" selection-end-column="143" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
