@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="179">
-                <caret line="67" column="86" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="86" />
+              <first_editor relative-caret-position="148">
+                <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -46,10 +46,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="96" />
-    <option name="y" value="206" />
-    <option name="width" value="2586" />
-    <option name="height" value="1370" />
+    <option name="x" value="-10" />
+    <option name="y" value="2" />
+    <option name="width" value="2580" />
+    <option name="height" value="1218" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,12 +115,12 @@
       <workItem from="1553199840609" duration="1274000" />
       <workItem from="1553465823110" duration="2490000" />
       <workItem from="1553809604503" duration="2383000" />
-      <workItem from="1554016895719" duration="2896000" />
+      <workItem from="1554016895719" duration="3648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11679000" />
+    <option name="totallyTimeSpent" value="12431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -167,8 +167,8 @@
     <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="179">
-            <caret line="67" column="86" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="86" />
+          <first_editor relative-caret-position="148">
+            <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
