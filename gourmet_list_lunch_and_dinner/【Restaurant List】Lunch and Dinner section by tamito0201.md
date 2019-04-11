@@ -214,6 +214,7 @@
 - [広尾のカレー](https://ameblo.jp/choux-a-la-creme/entry-12356001312.html) （カレー）　【[食べログ](https://tabelog.com/tokyo/A1307/A130703/13133972/)】
 - ★[ファンタジスタ ドゥエ](https://ameblo.jp/choux-a-la-creme/entry-12401816920.html) （ピザ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13167230/)】
 - ★[福島屋](https://ameblo.jp/choux-a-la-creme/entry-12423515916.html) （おでん）【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13013990/)】
+ ★[ふじや食堂](https://ameblo.jp/choux-a-la-creme/entry-12453616573.html) （定食）【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13013983/)】
 - ★[豚組食堂](http://ameblo.jp/choux-a-la-creme/entry-11919562646.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13155331/)】
 - ★[豚大学](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)（[①](https://ameblo.jp/choux-a-la-creme/entry-12401808980.html)、[②](http://ameblo.jp/choux-a-la-creme/entry-120ｇ61020484.html)） （焼肉丼）　【[食べログ](http://tabelog.com/tokyo/A1301/A130103/13130245/)】
 - ★[プティ・ポワン](http://ameblo.jp/choux-a-la-creme/entry-10018663452.html) （フランス料理）　【[食べログ](http://bit.ly/ADDfoU)】 **【閉店】**
