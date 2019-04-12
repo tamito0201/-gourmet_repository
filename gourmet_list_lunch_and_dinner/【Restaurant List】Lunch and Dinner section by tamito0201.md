@@ -171,6 +171,7 @@
 - ★[カブ&nbsp;西麻布](https://ameblo.jp/choux-a-la-creme/entry-12373830427.html)&nbsp;（天ぷら）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13194277/)】
 - [兜 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12398743720.html)&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13162115/)】
 - [キッチンふるはし](https://ameblo.jp/choux-a-la-creme/entry-12358193498.html) （洋食）　【[食べログ](https://tabelog.com/tokyo/A1307/A130703/13007157/)】
+- [京寿々](https://ameblo.jp/choux-a-la-creme/entry-12453859686.html) （うどん）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13179453/)】
 - ★[金舌 赤坂](https://ameblo.jp/choux-a-la-creme/entry-12444482846.html "This link will take you away from steemit.com")&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1308/A130801/13080895/)】
 - ★[金の羊](http://ameblo.jp/choux-a-la-creme/entry-10019738030.html) （ジンギスカン）　【[食べログ](http://bit.ly/9NSZq2)】
 - [串揚げ あげあげ](https://ameblo.jp/choux-a-la-creme/entry-12397396448.html) （串揚げ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13037191/)】
