@@ -156,6 +156,7 @@
 - ★[イマサラ 麻布十番本店](http://ameblo.jp/choux-a-la-creme/entry-12085466896.html) （しゃぶしゃぶ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13058115/)】
 - [ヴィネリア サクラ ランドリー](https://ameblo.jp/choux-a-la-creme/entry-12372809566.html)（イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13138420/)】
 - ★[歌京](https://ameblo.jp/choux-a-la-creme/entry-12370666734.html) （トリュフ卵かけご飯）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13185135/)】
+- [UDON BUZEN 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12454029154.html) （豊前うどん）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13226317/)】
 - ★[永新](https://ameblo.jp/choux-a-la-creme/entry-10384409724.html) （中華料理）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-10384409724.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12372295237.html" target="_blank">➁</a>)&nbsp;</font></font></font> （中華料理）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<a href="https://tabelog.com/tokyo/A1307/A130702/13013241/" target="_blank">食べログ</a>】</font></font></font>
