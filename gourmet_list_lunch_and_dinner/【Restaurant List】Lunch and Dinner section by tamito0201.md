@@ -224,6 +224,8 @@
 - ★[プティ・ポワン](http://ameblo.jp/choux-a-la-creme/entry-10018663452.html) （フランス料理）　【[食べログ](http://bit.ly/ADDfoU)】 **【閉店】**
 - [ブリアンツァ6.1](http://ameblo.jp/choux-a-la-creme/entry-12144562674.html) （イタリア料理）　【[食べログ](http://tabelog.com/tokyo/A1308/A130801/13164191/)】
 - [松玄 麻布十番](https://ameblo.jp/choux-a-la-creme/entry-12447216290.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13001692/)】
+- [マンハッタン](https://ameblo.jp/choux-a-la-creme/entry-12455998486.html)（フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1314/A131401/13158239/)】
+
 - [ミンスクの台所](https://ameblo.jp/choux-a-la-creme/entry-12397464422.html) （ベラルーシ料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13002843/)】
 - [むら田](https://ameblo.jp/choux-a-la-creme/entry-12444004088.html "This link will take you away from steemit.com") （釜飯）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13001660/)】
 - [むら中](https://ameblo.jp/choux-a-la-creme/entry-12371045215.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13013253/)】
