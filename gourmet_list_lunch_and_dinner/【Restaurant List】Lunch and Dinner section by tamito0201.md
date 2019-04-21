@@ -154,6 +154,7 @@
 - ★[いちまる](https://ameblo.jp/choux-a-la-creme/entry-12433209560.html) （お好み焼）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13087973/)】
 - [いとはん](http://ameblo.jp/choux-a-la-creme/entry-12134262642.html) （お好み焼）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13049553/)】
 - ★[イマサラ 麻布十番本店](http://ameblo.jp/choux-a-la-creme/entry-12085466896.html) （しゃぶしゃぶ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13058115/)】
+- [ヴァンテアン](https://ameblo.jp/choux-a-la-creme/entry-12455890965.html)（フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1314/A131401/13020694/)】
 - [ヴィネリア サクラ ランドリー](https://ameblo.jp/choux-a-la-creme/entry-12372809566.html)（イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13138420/)】
 - ★[歌京](https://ameblo.jp/choux-a-la-creme/entry-12370666734.html) （トリュフ卵かけご飯）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13185135/)】
 - [UDON BUZEN 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12454029154.html) （豊前うどん）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13226317/)】
