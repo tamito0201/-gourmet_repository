@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f50c70-e650-43f5-8f4e-ba2124855693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="226" column="133" selection-start-line="226" selection-start-column="133" selection-end-line="226" selection-end-column="133" />
+              <first_editor relative-caret-position="342">
+                <caret line="204" column="161" selection-start-line="204" selection-start-column="161" selection-end-line="204" selection-end-column="161" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -100,12 +101,12 @@
       <updated>1552396473844</updated>
       <workItem from="1552396476340" duration="1318000" />
       <workItem from="1552606910880" duration="3334000" />
-      <workItem from="1555838904140" duration="897000" />
+      <workItem from="1555838904140" duration="1602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5549000" />
+    <option name="totallyTimeSpent" value="6254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -152,8 +153,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="226" column="133" selection-start-line="226" selection-start-column="133" selection-end-line="226" selection-end-column="133" />
+          <first_editor relative-caret-position="342">
+            <caret line="204" column="161" selection-start-line="204" selection-start-column="161" selection-end-line="204" selection-end-column="161" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
