@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="204" column="161" selection-start-line="204" selection-start-column="161" selection-end-line="204" selection-end-column="161" />
+              <first_editor relative-caret-position="335">
+                <caret line="69" column="143" selection-start-line="69" selection-start-column="143" selection-end-line="69" selection-end-column="143" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -51,6 +51,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -63,13 +64,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../workspace/knowledge-repo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -101,18 +101,19 @@
       <updated>1552396473844</updated>
       <workItem from="1552396476340" duration="1318000" />
       <workItem from="1552606910880" duration="3334000" />
-      <workItem from="1555838904140" duration="1602000" />
+      <workItem from="1555838904140" duration="2201000" />
+      <workItem from="1555976622328" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6254000" />
+    <option name="totallyTimeSpent" value="7650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -153,8 +154,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="204" column="161" selection-start-line="204" selection-start-column="161" selection-end-line="204" selection-end-column="161" />
+          <first_editor relative-caret-position="335">
+            <caret line="69" column="143" selection-start-line="69" selection-start-column="143" selection-end-line="69" selection-end-column="143" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
