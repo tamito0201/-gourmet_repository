@@ -64,6 +64,7 @@
 - [うしごろ 貫 恵比寿本店](https://ameblo.jp/choux-a-la-creme/entry-12427836489.html)&nbsp;（焼肉） 【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13160330/)】
 - ★[かつおとぼんた](https://ameblo.jp/choux-a-la-creme/entry-12451745544.html)&nbsp;（おにぎり） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225913/)】
 - ★[季織亭](https://ameblo.jp/choux-a-la-creme/entry-12386859756.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13207222/)】
+- [kitchen&bar MORIS （キッチンアンドバー モリス）](https://ameblo.jp/choux-a-la-creme/entry-12457350156.html)&nbsp;（タコライス） 【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13093627/)】
 - ★[鶏味座屋台](http://ameblo.jp/choux-a-la-creme/entry-12066077685.html) （親子丼） 【[食べログ](http://tabelog.com/tokyo/A1303/A130301/13150523/)】
 - ★[酢重 インディゴ （Indigo）](https://ameblo.jp/choux-a-la-creme/entry-12450961176.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225911/)】
 - ★[産直青魚専門 渋谷 御厨](https://ameblo.jp/choux-a-la-creme/entry-12451533304.html)&nbsp;（魚料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
