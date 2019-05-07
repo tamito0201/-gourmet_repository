@@ -61,14 +61,16 @@
 #### 渋谷区
 
 - [伊東の魚とワインの店 イトウバル](https://ameblo.jp/choux-a-la-creme/entry-12451242525.html)&nbsp;（居酒屋） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13214532/)】
+- [yinega （イェネガ）](https://ameblo.jp/choux-a-la-creme/entry-12457520911.html) （多国籍料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13162279/)】
 - [うしごろ 貫 恵比寿本店](https://ameblo.jp/choux-a-la-creme/entry-12427836489.html)&nbsp;（焼肉） 【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13160330/)】
-★[かつおとぼんた](https://ameblo.jp/choux-a-la-creme/entry-12451745544.html)&nbsp;（おにぎり） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225913/)】
-★[季織亭](https://ameblo.jp/choux-a-la-creme/entry-12386859756.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13207222/)】
+- ★[かつおとぼんた](https://ameblo.jp/choux-a-la-creme/entry-12451745544.html)&nbsp;（おにぎり） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225913/)】
+- ★[季織亭](https://ameblo.jp/choux-a-la-creme/entry-12386859756.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13207222/)】
+- [kitchen&bar MORIS （キッチンアンドバー モリス）](https://ameblo.jp/choux-a-la-creme/entry-12457350156.html)&nbsp;（タコライス） 【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13093627/)】
 - ★[鶏味座屋台](http://ameblo.jp/choux-a-la-creme/entry-12066077685.html) （親子丼） 【[食べログ](http://tabelog.com/tokyo/A1303/A130301/13150523/)】
 - ★[酢重 インディゴ （Indigo）](https://ameblo.jp/choux-a-la-creme/entry-12450961176.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225911/)】
 - ★[産直青魚専門 渋谷 御厨](https://ameblo.jp/choux-a-la-creme/entry-12451533304.html)&nbsp;（魚料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
+- [タイ料理＆アジアンダイニング スパイスリップ 渋谷ストリーム店](https://ameblo.jp/choux-a-la-creme/entry-12456909997.html) （タイ料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225015/)】
 - [陳麻家 渋谷宮益坂店](https://ameblo.jp/choux-a-la-creme/entry-12456687195.html)&nbsp;（中華料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13114535/)】
-
 - [トモカ コーヒー （TO.MO.CA. Coffee）](https://ameblo.jp/choux-a-la-creme/entry-12389332996.html)&nbsp;（珈琲） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
 - ★[BeTTei（ベッテイ）](https://ameblo.jp/choux-a-la-creme/entry-12433800746.html)&nbsp;（鴨しゃぶ）&nbsp;【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13137494/)】
 - [マル・デ・クリスチアノ （Mar de Cristiano）](https://ameblo.jp/choux-a-la-creme/entry-12389358025.html) （ポルトガル料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13173123/)】

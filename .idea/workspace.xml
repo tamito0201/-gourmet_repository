@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07424cbd-8b6b-4c09-90f5-b4aad3b1b81b" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> ebbc38980e64e4a2a6edcce554f9e1edaf44ec8f
       <change beforePath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +19,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="199">
@@ -23,6 +28,11 @@
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="63" column="142" selection-start-line="63" selection-start-column="142" selection-end-line="63" selection-end-column="142" />
+>>>>>>> ebbc38980e64e4a2a6edcce554f9e1edaf44ec8f
             </state>
           </provider>
         </entry>
@@ -46,11 +56,19 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="174" />
     <option name="y" value="234" />
     <option name="width" value="2586" />
     <option name="height" value="1366" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-70" />
+    <option name="y" value="74" />
+    <option name="width" value="1440" />
+    <option name="height" value="804" />
+>>>>>>> ebbc38980e64e4a2a6edcce554f9e1edaf44ec8f
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -73,6 +91,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -132,10 +151,17 @@
     <option name="totallyTimeSpent" value="21280000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13765182" />
+=======
+    <frame x="-70" y="74" width="1440" height="804" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1423462" />
+>>>>>>> ebbc38980e64e4a2a6edcce554f9e1edaf44ec8f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -143,6 +169,8 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI デザイナー" order="6" />
       <window_info id="Learn" order="7" />
+      <window_info id="Designer" order="8" />
+      <window_info id="UI Designer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -167,6 +195,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Palette" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +204,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="199">
@@ -182,6 +213,11 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="63" column="142" selection-start-line="63" selection-start-column="142" selection-end-line="63" selection-end-column="142" />
+>>>>>>> ebbc38980e64e4a2a6edcce554f9e1edaf44ec8f
         </state>
       </provider>
     </entry>
