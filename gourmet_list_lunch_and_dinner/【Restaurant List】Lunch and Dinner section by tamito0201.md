@@ -244,6 +244,10 @@
 
 - ★[YASAKA](http://ameblo.jp/choux-a-la-creme/entry-10039906439.html) （焼鳥）　【[食べログ](http://bit.ly/c7Xx9T)】
 
+#### 練馬区
+
+- ★[麺処 井の庄](https://ameblo.jp/choux-a-la-creme/entry-12459766010.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1321/A132103/13024455/)】
+
 #### 国分寺市
 
 - ★[治鮨](https://ameblo.jp/choux-a-la-creme/entry-12435597574.html) （寿司）　【[食べログ](https://tabelog.com/tokyo/A1325/A132502/13005947/)】
@@ -273,6 +277,7 @@
 - [弥満喜](https://ameblo.jp/choux-a-la-creme/entry-12452930726.html) （奥久慈しゃも）　【[食べログ](https://tabelog.com/ibaraki/A0805/A080503/8001341/)】
 
 ![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
+
 ### 関西
 
 #### 大阪府

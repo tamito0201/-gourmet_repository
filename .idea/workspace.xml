@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07424cbd-8b6b-4c09-90f5-b4aad3b1b81b" name="Default Changelist" comment="" />
+    <list default="true" id="07424cbd-8b6b-4c09-90f5-b4aad3b1b81b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="204" column="136" selection-start-line="204" selection-start-column="136" selection-end-line="204" selection-end-column="136" />
+              <first_editor relative-caret-position="199">
+                <caret line="248" column="133" selection-start-line="248" selection-start-column="133" selection-end-line="248" selection-end-column="133" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -44,17 +47,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="208" />
-    <option name="y" value="368" />
-    <option name="width" value="1290" />
-    <option name="height" value="610" />
+    <option name="x" value="174" />
+    <option name="y" value="234" />
+    <option name="width" value="2586" />
+    <option name="height" value="1366" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,12 +74,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/android/android-architecture-todo-mvvm-databinding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -121,16 +124,18 @@
       <workItem from="1555122518289" duration="1334000" />
       <workItem from="1555191601690" duration="587000" />
       <workItem from="1555327288879" duration="1774000" />
+      <workItem from="1557269107949" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21181000" />
+    <option name="totallyTimeSpent" value="21280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13603239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13765182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -171,8 +176,8 @@
     <entry file="file://$PROJECT_DIR$/gourmet_list_lunch_and_dinner/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="204" column="136" selection-start-line="204" selection-start-column="136" selection-end-line="204" selection-end-column="136" />
+          <first_editor relative-caret-position="199">
+            <caret line="248" column="133" selection-start-line="248" selection-start-column="133" selection-end-line="248" selection-end-column="133" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
