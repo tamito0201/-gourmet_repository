@@ -248,6 +248,7 @@
 
 #### 練馬区
 
+- ★[野饗（のあえ）](https://ameblo.jp/choux-a-la-creme/entry-12460213059.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1321/A132103/13124790/)】
 - ★[麺処 井の庄](https://ameblo.jp/choux-a-la-creme/entry-12459766010.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1321/A132103/13024455/)】
 
 #### 国分寺市
