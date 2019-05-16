@@ -69,7 +69,9 @@
 - ★[鶏味座屋台](http://ameblo.jp/choux-a-la-creme/entry-12066077685.html) （親子丼） 【[食べログ](http://tabelog.com/tokyo/A1303/A130301/13150523/)】
 - ★[酢重 インディゴ （Indigo）](https://ameblo.jp/choux-a-la-creme/entry-12450961176.html)&nbsp;（そば） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225911/)】
 - ★[産直青魚専門 渋谷 御厨](https://ameblo.jp/choux-a-la-creme/entry-12451533304.html)&nbsp;（魚料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
+- ★[TABLE O TROIS （ターブル オー トロワ）](https://ameblo.jp/choux-a-la-creme/entry-12461850103.html)&nbsp;（ビストロ） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13203494/)】
 - [タイ料理＆アジアンダイニング スパイスリップ 渋谷ストリーム店](https://ameblo.jp/choux-a-la-creme/entry-12456909997.html) （タイ料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225015/)】
+- [焚火家 渋谷店](https://ameblo.jp/choux-a-la-creme/entry-12461624632.html) （焼肉） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13130110/)】
 - [陳麻家 渋谷宮益坂店](https://ameblo.jp/choux-a-la-creme/entry-12456687195.html)&nbsp;（中華料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13114535/)】
 - ★[土鍋炊ごはん なかよし 渋谷ストリーム店](https://ameblo.jp/choux-a-la-creme/entry-12461150830.html)&nbsp;（定食） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225856/)】
 - [トモカ コーヒー （TO.MO.CA. Coffee）](https://ameblo.jp/choux-a-la-creme/entry-12389332996.html)&nbsp;（珈琲） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
