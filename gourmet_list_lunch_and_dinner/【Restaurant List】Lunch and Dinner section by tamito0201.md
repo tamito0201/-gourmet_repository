@@ -262,6 +262,10 @@
 - ★[国分寺 甚五郎](https://ameblo.jp/choux-a-la-creme/entry-12436477616.html) （うどん）　【[食べログ](https://tabelog.com/tokyo/A1325/A132502/13099963/)】
 - ★[とんかつ桂](https://ameblo.jp/choux-a-la-creme/entry-12435216781.html) （とんかつ）【[食べログ](https://tabelog.com/tokyo/A1325/A132502/13016062/)】
 
+#### 八王子市
+
+- [高橋家](https://ameblo.jp/choux-a-la-creme/entry-12464418626.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1329/A132905/13016415/)】
+
 #### 神奈川県
 
 - ★[あさひ本店](https://ameblo.jp/choux-a-la-creme/entry-12393943863.html) （たこ煎餅）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14022338/)】
