@@ -264,6 +264,7 @@
 
 #### 八王子市
 
+- [栄茶屋 本店](https://ameblo.jp/choux-a-la-creme/entry-12464884092.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1329/A132905/13024652/)】
 - [高橋家](https://ameblo.jp/choux-a-la-creme/entry-12464418626.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1329/A132905/13016415/)】
 
 #### 神奈川県
