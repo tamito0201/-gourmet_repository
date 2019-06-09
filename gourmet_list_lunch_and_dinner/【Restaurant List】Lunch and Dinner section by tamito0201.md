@@ -243,6 +243,8 @@
 - ★[ラ・パスタイオーネ （La Pastaione）](https://ameblo.jp/choux-a-la-creme/entry-12398629357.html) （イタリアン）　【[食べログ](https://ameblo.jp/choux-a-la-creme/entry-12398629357.html)】
 - [リストランテ　キオラ](https://ameblo.jp/choux-a-la-creme/entry-10047504927.html) （イタリア料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13005195/)】 **【閉店】**
 - ★[リストランテ・ジャニコロ・ジョウキ](https://ameblo.jp/choux-a-la-creme/entry-12428953209.html) （イタリア料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13199638/)】
+- ★[りゅうの介](https://ameblo.jp/choux-a-la-creme/entry-12473583566.html) （割烹）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13112200/)】
+- [焼肉苑 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12475165904.html)&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13009340/)】
 - [闇市ジョニー 新橋アジト店](http://ameblo.jp/choux-a-la-creme/entry-12067192639.html)&nbsp;（焼肉）　【[食べログ](http://tabelog.com/tokyo/A1301/A130103/13103128/)】
 - [和処 きてら](https://ameblo.jp/choux-a-la-creme/entry-12400284699.html)&nbsp;（割烹）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13134161/)】
 
