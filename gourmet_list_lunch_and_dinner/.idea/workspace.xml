@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="128" column="80" lean-forward="true" selection-start-line="128" selection-start-column="80" selection-end-line="128" selection-end-column="80" />
+              <first_editor relative-caret-position="173">
+                <caret line="190" column="130" selection-start-line="190" selection-start-column="130" selection-end-line="190" selection-end-column="130" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -104,12 +104,12 @@
       <workItem from="1555976622328" duration="1397000" />
       <workItem from="1556589112014" duration="32000" />
       <workItem from="1556738133424" duration="25000" />
-      <workItem from="1560092291649" duration="2882000" />
+      <workItem from="1560092291649" duration="3594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11189000" />
+    <option name="totallyTimeSpent" value="11901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -156,8 +156,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="128" column="80" lean-forward="true" selection-start-line="128" selection-start-column="80" selection-end-line="128" selection-end-column="80" />
+          <first_editor relative-caret-position="173">
+            <caret line="190" column="130" selection-start-line="190" selection-start-column="130" selection-end-line="190" selection-end-column="130" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

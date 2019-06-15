@@ -171,8 +171,8 @@
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-10384409724.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12372295237.html" target="_blank">➁</a>)&nbsp;</font></font></font> （中華料理）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<a href="https://tabelog.com/tokyo/A1307/A130702/13013241/" target="_blank">食べログ</a>】</font></font></font>
 - [エーエス クラシックス ダイナー 六本木ヒルズ店](http://ameblo.jp/choux-a-la-creme/entry-12066928734.html) （ハンバーガー）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13154413/)】
+- [蝦夷屋](https://ameblo.jp/choux-a-la-creme/entry-12480590255.html) （居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13150425/)】
 - ★[Edoya](http://ameblo.jp/choux-a-la-creme/entry-10385927327.html) （洋食・欧風料理）　【[食べログ](http://bit.ly/f7cdJ)】
-- [御膳房](https://tabelog.com/tokyo/A1307/A130701/13001852/)&nbsp;（中華料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13001852/)】
 - ★[お弁当 ぎん香](https://ameblo.jp/choux-a-la-creme/entry-12426921751.html)&nbsp;（お弁当）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13229619/)】
 - [Aile Blanche(エルブランシュ)](https://ameblo.jp/choux-a-la-creme/entry-12372327496.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13039093/)】
 - [カーザ・ヴィニタリア](http://ameblo.jp/choux-a-la-creme/entry-12071474132.html) （イタリアン）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13010456/)】
@@ -188,6 +188,7 @@
 - [串揚げ あげあげ](https://ameblo.jp/choux-a-la-creme/entry-12397396448.html) （串揚げ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13037191/)】
 - [鰓呼吸 麻布十番商店街](https://ameblo.jp/choux-a-la-creme/entry-12396666967.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13109642/)】
 - [ゴーシェ](http://ameblo.jp/choux-a-la-creme/entry-12140352056.html) （フレンチ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13175346/)】
+- [御膳房](https://tabelog.com/tokyo/A1307/A130701/13001852/)&nbsp;（中華料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13001852/)】
 - ★[小滝野](https://ameblo.jp/choux-a-la-creme/entry-12448888143.html) （牛タンしゃぶ）　【[食べログ](https://tabelog.com/tokyo/A1316/A131602/13145984/)】
 - [仔羊こだわり屋](https://ameblo.jp/choux-a-la-creme/entry-12424977752.html) （ジンギスカン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13227627/)】
 - ★[香妃園](http://ameblo.jp/choux-a-la-creme/entry-12060124433.html) （中華料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13001271/)】
