@@ -398,6 +398,7 @@
 - [ORAS（オーラス）](https://ameblo.jp/choux-a-la-creme/entry-12354735814.html)（スリランカカレー） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400103/40039895/)】
 - [海鮮食堂 博多まかない屋](https://ameblo.jp/choux-a-la-creme/entry-12333682922.html) （居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400101/40020313/)】
 - ★[地球屋 住吉本店](https://ameblo.jp/choux-a-la-creme/entry-12335207312.html) （創作料理） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400101/40005786/)】
+- [博多たんか](https://ameblo.jp/choux-a-la-creme/entry-12483433642.html) （居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400101/40042698/)】
 - [豚ステーキ十一 住吉店](https://ameblo.jp/choux-a-la-creme/entry-12381114335.html) （ステーキ） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400103/40041812/)】
 
 #### 福岡市城南区
