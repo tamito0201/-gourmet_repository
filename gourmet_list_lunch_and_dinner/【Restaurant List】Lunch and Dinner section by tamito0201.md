@@ -76,6 +76,7 @@
 - ★[土鍋炊ごはん なかよし 渋谷ストリーム店](https://ameblo.jp/choux-a-la-creme/entry-12461150830.html)&nbsp;（定食） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225856/)】
 - [トモカ コーヒー （TO.MO.CA. Coffee）](https://ameblo.jp/choux-a-la-creme/entry-12389332996.html)&nbsp;（珈琲） 【[食べログ](https://tabelog.com/tokyo/A1318/A131811/13185185/)】
 - [bar a vin CROISEE（バール ア ヴァン クロワゼ） 渋谷ストリーム](https://ameblo.jp/choux-a-la-creme/entry-12461388955.html)&nbsp;（フレンチ）&nbsp;【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13225113/)】
+- ★[ビストロ ミートマン （bistro meat man）](https://ameblo.jp/choux-a-la-creme/entry-12484804519.html)&nbsp;（）&nbsp;ビストロ【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13229352/)】
 - ★[BeTTei（ベッテイ）](https://ameblo.jp/choux-a-la-creme/entry-12433800746.html)&nbsp;（鴨しゃぶ）&nbsp;【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13137494/)】
 - [マル・デ・クリスチアノ （Mar de Cristiano）](https://ameblo.jp/choux-a-la-creme/entry-12389358025.html) （ポルトガル料理） 【[食べログ](https://tabelog.com/tokyo/A1318/A131810/13173123/)】
 - [ミートタバーン 煮込みや四兵衛](https://ameblo.jp/choux-a-la-creme/entry-12450772848.html) （洋食） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13226526/)】
@@ -400,6 +401,7 @@
 - ★[地球屋 住吉本店](https://ameblo.jp/choux-a-la-creme/entry-12335207312.html) （創作料理） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400101/40005786/)】
 - [博多たんか](https://ameblo.jp/choux-a-la-creme/entry-12483433642.html) （居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400101/40042698/)】
 - [豚ステーキ十一 住吉店](https://ameblo.jp/choux-a-la-creme/entry-12381114335.html) （ステーキ） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400103/40041812/)】
+- [焼肉屋 Seiちゃん](https://ameblo.jp/choux-a-la-creme/entry-12483960634.html) （焼肉） 【[食べログ](https://tabelog.com/fukuoka/A4001/A400104/40051184/)】
 
 #### 福岡市城南区
 
