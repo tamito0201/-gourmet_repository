@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="86">
-                <caret line="272" column="135" selection-start-line="272" selection-start-column="135" selection-end-line="272" selection-end-column="135" />
+              <first_editor relative-caret-position="165">
+                <caret line="272" column="129" selection-start-line="272" selection-start-column="129" selection-end-line="272" selection-end-column="129" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -51,6 +51,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,11 +64,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -109,18 +110,22 @@
       <workItem from="1560684461859" duration="3250000" />
       <workItem from="1561208805448" duration="1857000" />
       <workItem from="1561549946095" duration="575000" />
-      <workItem from="1561636636537" duration="685000" />
+      <workItem from="1561636636537" duration="1288000" />
+      <workItem from="1562002853644" duration="119000" />
+      <workItem from="1562283853561" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19545000" />
+    <option name="totallyTimeSpent" value="20319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28987855" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29878542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -141,6 +146,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Regex Tester" order="12" />
+      <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -161,8 +167,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="86">
-            <caret line="272" column="135" selection-start-line="272" selection-start-column="135" selection-end-line="272" selection-end-column="135" />
+          <first_editor relative-caret-position="165">
+            <caret line="272" column="129" selection-start-line="272" selection-start-column="129" selection-end-line="272" selection-end-column="129" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

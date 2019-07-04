@@ -270,6 +270,7 @@
 
 #### 小平市
 
+- ★[玄海](https://ameblo.jp/choux-a-la-creme/entry-12490344102.html) （割烹）　【[食べログ](https://tabelog.com/tokyo/A1328/A132804/13081799/)
 - ★[デナリコーヒー](https://ameblo.jp/choux-a-la-creme/entry-12488599896.html) （喫茶）　【[食べログ](https://tabelog.com/tokyo/A1328/A132804/13137208/)
 
 
