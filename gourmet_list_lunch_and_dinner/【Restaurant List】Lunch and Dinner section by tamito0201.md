@@ -219,7 +219,9 @@
 - ★[デヴィ コーナー](http://ameblo.jp/choux-a-la-creme/entry-10034867066.html) （カレー）　【[食べログ](http://bit.ly/8pkJF8)】
 - ★[東京愛らんど](https://ameblo.jp/choux-a-la-creme/entry-12454777794.html) （カフェ）　【[食べログ](https://tabelog.com/tokyo/A1314/A131401/13097257/)】
 - [戸田亘のお好み焼 さんて寛](http://ameblo.jp/choux-a-la-creme/entry-12126009722.html) （お好み焼き）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13163322/)】
-- ★[とんかつ 都](https://ameblo.jp/choux-a-la-creme/entry-12396655544.html) （とんかつ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13211807/)】
+- ★[とんかつ 都](https://ameblo.jp/choux-a-la-creme/entry-12396655544.html)
+<font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-12490654187.html" target="_blank">➀</a>、<a href="https://tabelog.com/tokyo/A1307/A130702/13211807/" target="_blank">➁</a>)&nbsp;</font></font></font> （とんかつ）
+<font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<https://tabelog.com/tokyo/A1307/A130702/13211807/" target="_blank">食べログ</a>】</font></font></font>
 - [NAGAOKA SAKUMO](https://ameblo.jp/choux-a-la-creme/entry-12420123288.html)&nbsp;（お好み焼）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13166335/)】
 - [ノック・クッチーナ・ボナ・イタリアーナ&nbsp;六本木本店](https://ameblo.jp/choux-a-la-creme/entry-12311489393.html) （イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13135551/)】
 - ★[のもと家](http://ameblo.jp/choux-a-la-creme/entry-12077734603.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13170377/)】
