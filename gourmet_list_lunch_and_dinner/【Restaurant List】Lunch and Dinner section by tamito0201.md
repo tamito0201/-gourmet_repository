@@ -169,8 +169,8 @@
 - ★[歌京](https://ameblo.jp/choux-a-la-creme/entry-12370666734.html) （トリュフ卵かけご飯）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13185135/)】
 - ★[牛弁慶 新橋本店](https://ameblo.jp/choux-a-la-creme/entry-12481117901.html) （牛料理）　【[食べログ](https://tabelog.com/tokyo/A1301/A130103/13116064/)】
 - [UDON BUZEN 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12454029154.html) （豊前うどん）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13226317/)】
-- ★[永新](https://ameblo.jp/choux-a-la-creme/entry-10384409724.html) （中華料理）
-<font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-10384409724.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12372295237.html" target="_blank">➁</a>)&nbsp;</font></font></font> （中華料理）
+- ★[永新](https://ameblo.jp/choux-a-la-creme/entry-12491386978.html) （中華料理）
+<font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-12491386978.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-10384409724.html" target="_blank">②</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12372295237.html" target="_blank">③</a>)&nbsp;</font></font></font> （中華料理）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<a href="https://tabelog.com/tokyo/A1307/A130702/13013241/" target="_blank">食べログ</a>】</font></font></font>
 - [エーエス クラシックス ダイナー 六本木ヒルズ店](http://ameblo.jp/choux-a-la-creme/entry-12066928734.html) （ハンバーガー）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13154413/)】
 - [蝦夷屋](https://ameblo.jp/choux-a-la-creme/entry-12480590255.html) （居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13150425/)】
@@ -247,6 +247,7 @@
 - ★[もと村 浜松町店](http://ameblo.jp/choux-a-la-creme/entry-12076774469.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13173459/)】
 - [炭火焼肉ももたろう 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12401939310.html)&nbsp;（焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13043440/)】
 - ★[ラ・パスタイオーネ （La Pastaione）](https://ameblo.jp/choux-a-la-creme/entry-12398629357.html) （イタリアン）　【[食べログ](https://ameblo.jp/choux-a-la-creme/entry-12398629357.html)】
+- ★[Ramu Tokyo （ラム　トウキョウ）](https://ameblo.jp/choux-a-la-creme/entry-12491002470.html) （馬肉料理）　【[食べログ](https://staging.busy.org/exit?url=https%3A%2F%2Ftabelog.com%2Ftokyo%2FA1307%2FA130702%2F13132860%2F)】
 - [リストランテ　キオラ](https://ameblo.jp/choux-a-la-creme/entry-10047504927.html) （イタリア料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13005195/)】 **【閉店】**
 - ★[リストランテ・ジャニコロ・ジョウキ](https://ameblo.jp/choux-a-la-creme/entry-12428953209.html) （イタリア料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13199638/)】
 - ★[りゅうの介](https://ameblo.jp/choux-a-la-creme/entry-12473583566.html) （割烹）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13112200/)】
