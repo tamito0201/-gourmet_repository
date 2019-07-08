@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="174" column="153" selection-start-line="174" selection-start-column="153" selection-end-line="174" selection-end-column="153" />
+              <first_editor relative-caret-position="262">
+                <caret line="221" column="137" selection-start-line="221" selection-start-column="137" selection-end-line="221" selection-end-column="137" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -121,18 +121,19 @@
       <workItem from="1562002853644" duration="119000" />
       <workItem from="1562283853561" duration="1650000" />
       <workItem from="1562423189514" duration="1366000" />
-      <workItem from="1562494187053" duration="172000" />
+      <workItem from="1562494187053" duration="771000" />
+      <workItem from="1562609898892" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23455000" />
+    <option name="totallyTimeSpent" value="24157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -176,8 +177,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="174" column="153" selection-start-line="174" selection-start-column="153" selection-end-line="174" selection-end-column="153" />
+          <first_editor relative-caret-position="262">
+            <caret line="221" column="137" selection-start-line="221" selection-start-column="137" selection-end-line="221" selection-end-column="137" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
