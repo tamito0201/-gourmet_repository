@@ -152,6 +152,7 @@
 
 - [BLT STEAK ROPPONGI](http://ameblo.jp/choux-a-la-creme/entry-12130980835.html)（ステーキ）【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13172995/)】
 - ★[麻布 川上庵](https://ameblo.jp/choux-a-la-creme/entry-12395792802.html)&nbsp;（蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13004546/)】
+- ★[麻布十番しも井](https://ameblo.jp/choux-a-la-creme/entry-12492656566.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13150786/)】
 - ★[麻布 和たま （わたま）](https://ameblo.jp/choux-a-la-creme/entry-12397421866.html)&nbsp;（定食）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13023382/)】
 - [麻布 諒](https://ameblo.jp/choux-a-la-creme/entry-12439654632.html)&nbsp;（蟹料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13013995/)】
 - [別館あじと 麻布十番](https://ameblo.jp/choux-a-la-creme/entry-12400261505.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13123375/)】
@@ -175,6 +176,7 @@
 - [エーエス クラシックス ダイナー 六本木ヒルズ店](http://ameblo.jp/choux-a-la-creme/entry-12066928734.html) （ハンバーガー）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13154413/)】
 - [蝦夷屋](https://ameblo.jp/choux-a-la-creme/entry-12480590255.html) （居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13150425/)】
 - ★[Edoya](http://ameblo.jp/choux-a-la-creme/entry-10385927327.html) （洋食・欧風料理）　【[食べログ](http://bit.ly/f7cdJ)】
+- [大阪焼肉・ホルモン ふたご 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12492960335.html)&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13174293/)】
 - ★[お弁当 ぎん香](https://ameblo.jp/choux-a-la-creme/entry-12426921751.html)&nbsp;（お弁当）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13229619/)】
 - [Aile Blanche(エルブランシュ)](https://ameblo.jp/choux-a-la-creme/entry-12372327496.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13039093/)】
 - [カーザ・ヴィニタリア](http://ameblo.jp/choux-a-la-creme/entry-12071474132.html) （イタリアン）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13010456/)】
