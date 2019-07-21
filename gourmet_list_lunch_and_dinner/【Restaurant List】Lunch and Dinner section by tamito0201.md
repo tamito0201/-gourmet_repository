@@ -91,7 +91,7 @@
 - [鳥茶屋本店 別亭](http://ameblo.jp/choux-a-la-creme/entry-10038396826.html) （日本料理・懐石） 【[食べログ](http://bit.ly/1ViUDz)】
 - ★[北海亭](https://ameblo.jp/choux-a-la-creme/entry-12376996592.html) （定食） 【[食べログ](https://tabelog.com/tokyo/A1304/A130402/13028490/)】
 - ★[マルガメ （marugame）](https://ameblo.jp/choux-a-la-creme/entry-12427571034.html) （フレンチ） 【[食べログ](https://tabelog.com/tokyo/A1309/A130905/13122127/)】
-- ★[洋食の店 ぺいざん](https://ameblo.jp/choux-a-la-creme/entry-12496610956.html) （洋食） 【[食べログ](https://tabelog.com/tokyo/A1309/A130905/13122127/)】
+- ★[洋食の店 ぺいざん](https://ameblo.jp/choux-a-la-creme/entry-12496610956.html) （洋食） 【[食べログ](https://tabelog.com/tokyo/A1321/A132104/13061561/)】
 
 #### 墨田区
 
