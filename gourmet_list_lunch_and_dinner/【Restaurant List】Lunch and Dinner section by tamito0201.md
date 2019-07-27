@@ -60,6 +60,7 @@
 
 #### 渋谷区
 
+- [いくら丼専門店 波の 渋谷東店](https://ameblo.jp/choux-a-la-creme/entry-12498335230.html)&nbsp;（海鮮丼） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13231105/)】
 - [伊東の魚とワインの店 イトウバル](https://ameblo.jp/choux-a-la-creme/entry-12451242525.html)&nbsp;（居酒屋） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13214532/)】
 - [yinega （イェネガ）](https://ameblo.jp/choux-a-la-creme/entry-12457520911.html) （多国籍料理） 【[食べログ](https://tabelog.com/tokyo/A1303/A130301/13162279/)】
 - [うしごろ 貫 恵比寿本店](https://ameblo.jp/choux-a-la-creme/entry-12427836489.html)&nbsp;（焼肉） 【[食べログ](https://tabelog.com/tokyo/A1303/A130302/13160330/)】
