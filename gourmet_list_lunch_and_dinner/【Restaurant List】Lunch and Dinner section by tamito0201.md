@@ -143,6 +143,7 @@
 - [Abats（アバ）](http://ameblo.jp/choux-a-la-creme/entry-12125210049.html) （欧風料理） 【[食べログ](http://tabelog.com/tokyo/A1310/A131004/13077357/)】 **【閉店】**
 - [かつ吉 水道橋店](https://ameblo.jp/choux-a-la-creme/entry-12370541699.html) （とんかつ） 【[食べログ](https://tabelog.com/tokyo/A1310/A131003/13003524/)】
 - [銀座　高尾](http://ameblo.jp/choux-a-la-creme/entry-10014302305.html) （すき焼き） 【[食べログ](http://bit.ly/xfM8GU)】 **【閉店】**
+- [京風ダイニング 京都高台寺 よ志のや ](https://ameblo.jp/choux-a-la-creme/entry-12498912029.html) （創作料理） 【[食べログ](https://tabelog.com/tokyo/A1310/A131003/13136982/)】
 - [厳選洋食さくらい](https://ameblo.jp/choux-a-la-creme/entry-12375677007.html) （洋食） 【[食べログ](https://tabelog.com/tokyo/A1311/A131101/13003638/)】
 - ★[仕事馬](https://ameblo.jp/choux-a-la-creme/entry-12366419553.html)&nbsp;（馬肉） 【[食べログ](https://tabelog.com/tokyo/A1310/A131003/13019986/)】
 - [水道橋麺通団](https://ameblo.jp/choux-a-la-creme/entry-12364532162.html) （うどん） 【[食べログ](https://tabelog.com/tokyo/A1310/A131003/13094345/)】
