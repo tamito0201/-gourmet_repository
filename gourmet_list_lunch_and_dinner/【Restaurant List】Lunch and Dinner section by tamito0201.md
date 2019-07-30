@@ -265,6 +265,7 @@
 #### 目黒区
 
 - ★[YASAKA](http://ameblo.jp/choux-a-la-creme/entry-10039906439.html) （焼鳥）　【[食べログ](http://bit.ly/c7Xx9T)】
+- [レストランユニック](https://ameblo.jp/choux-a-la-creme/entry-12499630903.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1316/A131601/13163184/)】
 
 #### 練馬区
 
