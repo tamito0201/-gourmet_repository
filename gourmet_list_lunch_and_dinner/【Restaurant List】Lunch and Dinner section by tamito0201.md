@@ -231,6 +231,7 @@
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-12490654187.html" target="_blank">➀</a>、<a href="https://tabelog.com/tokyo/A1307/A130702/13211807/" target="_blank">➁</a>)&nbsp;</font></font></font> （とんかつ）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13211807/)】</font></font></font>
 - [NAGAOKA SAKUMO](https://ameblo.jp/choux-a-la-creme/entry-12420123288.html)&nbsp;（お好み焼）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13166335/)】
+- [永坂更科 布屋太兵衛 麻布総本店](https://ameblo.jp/choux-a-la-creme/entry-12505509517.html)&nbsp;（蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13002810/)】
 - [ノック・クッチーナ・ボナ・イタリアーナ&nbsp;六本木本店](https://ameblo.jp/choux-a-la-creme/entry-12311489393.html) （イタリアン）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13135551/)】
 - ★[のもと家](http://ameblo.jp/choux-a-la-creme/entry-12077734603.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13170377/)】
 - [煮込み てらにし&nbsp;（伊勢うどん・きしめん）](https://ameblo.jp/choux-a-la-creme/entry-12428191363.html)　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13170377/)】

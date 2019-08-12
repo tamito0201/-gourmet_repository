@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="173" column="131" selection-start-line="173" selection-start-column="131" selection-end-line="173" selection-end-column="131" />
+            <state relative-caret-position="204">
+              <caret line="233" column="88" selection-start-line="233" selection-start-column="88" selection-end-line="233" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -61,8 +61,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,18 +127,19 @@
       <workItem from="1564236229105" duration="729000" />
       <workItem from="1564341581127" duration="126000" />
       <workItem from="1564511692216" duration="710000" />
-      <workItem from="1565451676049" duration="92000" />
+      <workItem from="1565451676049" duration="690000" />
+      <workItem from="1565642163728" duration="88000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29278000" />
+    <option name="totallyTimeSpent" value="29964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18218623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -181,8 +182,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="173" column="131" selection-start-line="173" selection-start-column="131" selection-end-line="173" selection-end-column="131" />
+        <state relative-caret-position="204">
+          <caret line="233" column="88" selection-start-line="233" selection-start-column="88" selection-end-line="233" selection-end-column="88" />
         </state>
       </provider>
     </entry>
