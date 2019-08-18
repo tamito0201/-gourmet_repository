@@ -186,6 +186,7 @@
 - ★[お弁当 ぎん香](https://ameblo.jp/choux-a-la-creme/entry-12426921751.html)&nbsp;（お弁当）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13229619/)】
 - [Aile Blanche(エルブランシュ)](https://ameblo.jp/choux-a-la-creme/entry-12372327496.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13039093/)】
 - [カーザ・ヴィニタリア](http://ameblo.jp/choux-a-la-creme/entry-12071474132.html) （イタリアン）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13010456/)】
+- ★[がいがい、(https://ameblo.jp/choux-a-la-creme/entry-12508579050.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13002838/)】
 - [カシュク](http://ameblo.jp/choux-a-la-creme/entry-12075050513.html) （トルコ料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13054780/)】
 - [カフェ・フランジパニ](http://ameblo.jp/choux-a-la-creme/entry-12060501961.html) （カフェ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13012612/)】
 - [カフェ ラントマン](http://ameblo.jp/choux-a-la-creme/entry-12128627805.html) （欧風料理）　【[食べログ](http://tabelog.com/tokyo/A1306/A130602/13078534/)】
