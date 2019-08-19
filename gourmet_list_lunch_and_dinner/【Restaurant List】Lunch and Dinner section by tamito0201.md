@@ -207,6 +207,7 @@
 - [三と十](https://ameblo.jp/choux-a-la-creme/entry-12421069473.html)（鉄板焼）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13109731/)】
 - ★[白金酉玉 本館](https://ameblo.jp/choux-a-la-creme/entry-12363373501.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1316/A131602/13005504/)】
 - [純豆腐 田舎家](https://ameblo.jp/choux-a-la-creme/entry-12400205219.html) （スンドゥブ）　【[食べログ](https://ameblo.jp/choux-a-la-creme/entry-12400205219.html)】
+- ★[仙台坂 ひむか](https://ameblo.jp/choux-a-la-creme/entry-12509016615.html) （郷土料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13004560/)】
 - [タストゥー](http://ameblo.jp/choux-a-la-creme/entry-12135720140.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13184805/)】
 - [太楼 広尾店](https://ameblo.jp/choux-a-la-creme/entry-12357936233.html) （中華料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130703/13041056/)】
 - [ダリアン 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12431336049.html) （餃子）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13092092/)】
