@@ -475,6 +475,7 @@
 - [光洲楽](https://ameblo.jp/choux-a-la-creme/entry-12316045049.html)&nbsp;（ホルモン） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40009623/)】
 - ★[さしみ屋 魚旬](https://ameblo.jp/choux-a-la-creme/entry-12355651985.html)&nbsp;（居酒屋） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40030982/)】
 - [蛇の目寿司](https://ameblo.jp/choux-a-la-creme/entry-12384485014.html)&nbsp;（小料理） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40006569/)】
+- ★[ステーキダイニング 肉男](https://ameblo.jp/choux-a-la-creme/entry-12526102468.html)&nbsp;（ステーキ） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40049835/)】
 - [ちろりん村とくるみの木](https://ameblo.jp/choux-a-la-creme/entry-12518910836.htmll)&nbsp;（ステーキ） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40023942/)】
 - [博多うどん](https://ameblo.jp/choux-a-la-creme/entry-12354995839.html) （ちゃんぽん） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400702/40042282/)】
 - [番田の里 稚加栄](https://ameblo.jp/choux-a-la-creme/entry-12384394759.html) （小料理） 【[食べログ](https://tabelog.com/fukuoka/A4007/A400703/40010405/)】
