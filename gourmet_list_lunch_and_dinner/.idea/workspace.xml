@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f50c70-e650-43f5-8f4e-ba2124855693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="242">
-                <caret line="476" column="141" lean-forward="true" selection-start-line="476" selection-start-column="141" selection-end-line="476" selection-end-column="141" />
+              <first_editor relative-caret-position="316">
+                <caret line="45" column="144" selection-start-line="45" selection-start-column="144" selection-end-line="45" selection-end-column="144" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -42,9 +44,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-54" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="166" />
     <option name="width" value="2586" />
     <option name="height" value="1386" />
   </component>
@@ -54,7 +56,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,7 +68,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,18 +138,19 @@
       <workItem from="1565811407414" duration="781000" />
       <workItem from="1566127867680" duration="751000" />
       <workItem from="1567441344015" duration="166000" />
-      <workItem from="1568627055250" duration="75000" />
+      <workItem from="1568627055250" duration="111000" />
+      <workItem from="1569584915343" duration="113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31756000" />
+    <option name="totallyTimeSpent" value="31905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-27" y="13" width="1293" height="693" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19676113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -157,7 +160,6 @@
       <window_info id="Learn" order="7" />
       <window_info id="Designer" order="8" />
       <window_info id="UI Designer" order="9" />
-      <window_info anchor="bottom" id="SBT Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -171,6 +173,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Regex Tester" order="12" />
+      <window_info anchor="bottom" id="SBT Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -192,8 +195,8 @@
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="242">
-            <caret line="476" column="141" lean-forward="true" selection-start-line="476" selection-start-column="141" selection-end-line="476" selection-end-column="141" />
+          <first_editor relative-caret-position="316">
+            <caret line="45" column="144" selection-start-line="45" selection-start-column="144" selection-end-line="45" selection-end-column="144" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

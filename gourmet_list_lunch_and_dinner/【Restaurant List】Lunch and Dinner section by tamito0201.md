@@ -41,6 +41,10 @@
 
 - ★[TIKA](https://ameblo.jp/choux-a-la-creme/entry-10383084528.html) （カレー） 【[食べログ](https://tabelog.com/tokyo/A1324/A132403/13053902/)】 **【閉店】**
 
+#### 北区
+
+- [gateaukoko （ガトーココ）(https://ameblo.jp/choux-a-la-creme/entry-12530252094.html) （カフェ） 【[食べログ](https://tabelog.com/tokyo/A1323/A132305/13179874/)
+
 #### 江東区
 
 - ★[インドアジアンレストラン ダルハラ](https://ameblo.jp/choux-a-la-creme/entry-12406749147.html) （インドカレー） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13190455/)】
