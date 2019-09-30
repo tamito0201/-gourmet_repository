@@ -43,6 +43,7 @@
 
 #### 北区
 
+- [キッチン とん忠](https://ameblo.jp/choux-a-la-creme/entry-12531351892.html) （定食屋） 【[食べログ](https://tabelog.com/tokyo/A1323/A132305/13112428/)
 - [gateaukoko （ガトーココ）](https://ameblo.jp/choux-a-la-creme/entry-12530252094.html) （カフェ） 【[食べログ](https://tabelog.com/tokyo/A1323/A132305/13179874/)
 - [レストラン ワールド](https://ameblo.jp/choux-a-la-creme/entry-12530654691.html) （ステーキ） 【[食べログ](https://tabelog.com/tokyo/A1323/A132305/13045650/)
 
