@@ -116,6 +116,7 @@
 
 #### 台東区
 
+- [チロンボ・マリーナ （Cironbo Marina）](https://ameblo.jp/choux-a-la-creme/entry-12532671768.html/) （イタリアン） 【[食べログ](https://tabelog.com/tokyo/A1311/A131101/13211099/)】
 - [レストラン香味屋](http://ameblo.jp/choux-a-la-creme/entry-10017754716.html) （洋食） 【[食べログ](http://bit.ly/5YL8s2)】
 
 #### 千代田区
