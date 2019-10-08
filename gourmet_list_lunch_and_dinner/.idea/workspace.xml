@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26f50c70-e650-43f5-8f4e-ba2124855693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-472" />
-    <option name="y" value="386" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-60" />
+    <option name="y" value="144" />
     <option name="width" value="2582" />
     <option name="height" value="1368" />
   </component>
@@ -55,7 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,7 +66,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,18 +141,18 @@
       <workItem from="1569702185664" duration="119000" />
       <workItem from="1569811995322" duration="188000" />
       <workItem from="1569886694756" duration="672000" />
-      <workItem from="1570239095883" duration="153000" />
+      <workItem from="1570239095883" duration="748000" />
+      <workItem from="1570315317031" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33654000" />
+    <option name="totallyTimeSpent" value="34438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
-    <editor active="true" />
+    <frame x="29" y="149" width="1291" height="684" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21295546" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21654502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
