@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26f50c70-e650-43f5-8f4e-ba2124855693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" beforeDir="false" afterPath="$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="317">
-                <caret line="118" column="156" selection-start-line="118" selection-start-column="156" selection-end-line="118" selection-end-column="156" />
+              <first_editor relative-caret-position="98">
+                <caret line="249" column="274" selection-start-line="249" selection-start-column="274" selection-end-line="249" selection-end-column="274" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -143,16 +144,19 @@
       <workItem from="1569886694756" duration="672000" />
       <workItem from="1570239095883" duration="748000" />
       <workItem from="1570315317031" duration="189000" />
+      <workItem from="1570536825551" duration="716000" />
+      <workItem from="1570662652702" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34438000" />
+    <option name="totallyTimeSpent" value="35348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="149" width="1291" height="684" extended-state="1" />
+    <frame x="-30" y="72" width="1291" height="684" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21654502" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22303325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -195,19 +199,19 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="209" column="77" selection-start-line="209" selection-start-column="77" selection-end-line="209" selection-end-column="77" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="317">
-            <caret line="118" column="156" selection-start-line="118" selection-start-column="156" selection-end-line="118" selection-end-column="156" />
+          <first_editor relative-caret-position="98">
+            <caret line="249" column="274" selection-start-line="249" selection-start-column="274" selection-end-line="249" selection-end-column="274" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="209" column="77" selection-start-line="209" selection-start-column="77" selection-end-line="209" selection-end-column="77" />
         </state>
       </provider>
     </entry>

@@ -247,7 +247,7 @@
 - ★[のもと家](http://ameblo.jp/choux-a-la-creme/entry-12077734603.html) （とんかつ）　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13170377/)】
 - [煮込み てらにし&nbsp;（伊勢うどん・きしめん）](https://ameblo.jp/choux-a-la-creme/entry-12428191363.html)　【[食べログ](http://tabelog.com/tokyo/A1314/A131401/13170377/)】
 - [はやし](http://ameblo.jp/choux-a-la-creme/entry-12059011667.html) （親子丼）　【[食べログ](http://tabelog.com/tokyo/A1308/A130801/13002752/)】
-- ★[Bistro 釜津田](https://ameblo.jp/choux-a-la-creme/entry-12370314811.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13179015/)】
+- ★[Bistro 釜津田](https://ameblo.jp/choux-a-la-creme/entry-12534283774.html)（[①](https://ameblo.jp/choux-a-la-creme/entry-12534283774.html)、[②](https://ameblo.jp/choux-a-la-creme/entry-12370314811.html)） &nbsp;（フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13179015/)】
 - ★[ビストラン エレネスク （Bistaurant RNSQ）](https://ameblo.jp/choux-a-la-creme/entry-12400512724.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13100545/)】
 - [備長炭火焼ひかり鶏 麻布十番店l](https://ameblo.jp/choux-a-la-creme/entry-12427953320.html)（焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13100545/)】
 - ★[ピッツァ ストラーダ](https://ameblo.jp/choux-a-la-creme/entry-12400197719.html) （ピザ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13131245/)】
