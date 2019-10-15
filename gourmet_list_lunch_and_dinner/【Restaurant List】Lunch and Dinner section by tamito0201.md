@@ -316,8 +316,15 @@
 
 #### 千葉県
 
+##### 銚子市
+
 - [久六](http://ameblo.jp/choux-a-la-creme/entry-10015266148.html) （魚料理）　【[食べログ](http://bit.ly/c0dKqB)】
+
+##### 安房郡
 - [ばんや](http://ameblo.jp/choux-a-la-creme/entry-10036146842.html) （魚料理）　【[食べログ](http://bit.ly/pbgrB)】
+
+##### 長生郡
+- [創作料理ほしみや](https://ameblo.jp/choux-a-la-creme/entry-12535864631.html) （居酒屋）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12044442/)】
 
 #### 茨城県
 
