@@ -324,7 +324,8 @@
 - [ばんや](http://ameblo.jp/choux-a-la-creme/entry-10036146842.html) （魚料理）　【[食べログ](http://bit.ly/pbgrB)】
 
 ##### 長生郡
-- [創作料理ほしみや](https://ameblo.jp/choux-a-la-creme/entry-12535864631.html) （居酒屋）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12044442/)】
+- ★[創作料理ほしみや](https://ameblo.jp/choux-a-la-creme/entry-12535864631.html) （居酒屋）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12044442/)】
+- ★[のいち](https://ameblo.jp/choux-a-la-creme/entry-12536418513.html) （魚料理）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12033221/)】
 
 #### 茨城県
 
