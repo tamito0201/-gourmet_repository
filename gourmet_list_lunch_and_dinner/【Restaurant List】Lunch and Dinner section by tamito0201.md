@@ -326,6 +326,7 @@
 ##### 長生郡
 - ★[創作料理ほしみや](https://ameblo.jp/choux-a-la-creme/entry-12535864631.html) （居酒屋）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12044442/)】
 - ★[のいち](https://ameblo.jp/choux-a-la-creme/entry-12536418513.html) （魚料理）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12033221/)】
+- [ハレ （Hale）](https://ameblo.jp/choux-a-la-creme/entry-12539728742.html) （カフェ）　【[食べログ](https://tabelog.com/chiba/A1205/A120504/12027732/)】
 
 #### 茨城県
 
