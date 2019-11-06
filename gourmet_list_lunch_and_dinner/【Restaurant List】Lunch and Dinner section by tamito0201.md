@@ -571,4 +571,9 @@
 
 - ★[丸山珈琲](http://ameblo.jp/choux-a-la-creme/entry-10014922468.html) （喫茶）　【[食べログ](http://bit.ly/eqhQ7O)】
 
+##### 伊那市
+
+- [うしお](https://ameblo.jp/choux-a-la-creme/entry-12542492875.html) （ローメン）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20000001/)】
+- ★[コーヒーとサンドイッチ おかもと](https://ameblo.jp/choux-a-la-creme/entry-12542128385.html) （カフェ）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20020345/)】
+
 written by たみと（たー）
