@@ -337,6 +337,12 @@
 
 ### 関西
 
+#### 京都府
+
+##### 京都市
+
+- ★[赤おに](https://ameblo.jp/choux-a-la-creme/entry-12543914106.html (居酒屋) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26008053/)】
+
 #### 大阪府
 
 - [讃岐うどん四八](https://ameblo.jp/choux-a-la-creme/entry-12391979768.html)&nbsp;(讃岐うどん) 【[食べログ](https://tabelog.com/osaka/A2706/A270602/27072716/)】
