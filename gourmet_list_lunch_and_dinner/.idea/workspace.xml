@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="341" column="9" selection-start-line="341" selection-start-column="9" selection-end-line="341" selection-end-column="9" />
+              <first_editor relative-caret-position="357">
+                <caret line="584" column="135" selection-start-line="584" selection-start-column="135" selection-end-line="584" selection-end-column="135" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="94" />
+    <option name="x" value="129" />
+    <option name="y" value="93" />
     <option name="width" value="1920" />
     <option name="height" value="966" />
   </component>
@@ -150,18 +150,19 @@
       <workItem from="1572137607424" duration="1314000" />
       <workItem from="1572565357967" duration="263000" />
       <workItem from="1573064371834" duration="364000" />
-      <workItem from="1573344043278" duration="265000" />
+      <workItem from="1573344043278" duration="413000" />
+      <workItem from="1573668111688" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40194000" />
+    <option name="totallyTimeSpent" value="40516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16518219" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16761133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -171,6 +172,7 @@
       <window_info id="Learn" order="7" />
       <window_info id="Designer" order="8" />
       <window_info id="UI Designer" order="9" />
+      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -204,17 +206,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/【Restaurant List】Lunch and Dinner section by tamito0201.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="341" column="9" selection-start-line="341" selection-start-column="9" selection-end-line="341" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="209" column="77" selection-start-line="209" selection-start-column="77" selection-end-line="209" selection-end-column="77" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="584" column="135" selection-start-line="584" selection-start-column="135" selection-end-line="584" selection-end-column="135" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
