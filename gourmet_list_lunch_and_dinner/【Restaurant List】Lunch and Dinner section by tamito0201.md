@@ -164,7 +164,7 @@
 - [BLT STEAK ROPPONGI](http://ameblo.jp/choux-a-la-creme/entry-12130980835.html)（ステーキ）【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13172995/)】
 - ★[麻布 川上庵](https://ameblo.jp/choux-a-la-creme/entry-12395792802.html)&nbsp;（蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13004546/)】
 - ★[麻布十番しも井](https://ameblo.jp/choux-a-la-creme/entry-12492656566.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13150786/)】
-- [麻布十番焼肉 Kintan](https://ameblo.jp/choux-a-la-creme/entry-12506610353.html)&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13194540/】
+- [麻布十番焼肉 Kintan](https://ameblo.jp/choux-a-la-creme/entry-12506610353.html)&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13194540/)】
 - ★[麻布 和たま （わたま）](https://ameblo.jp/choux-a-la-creme/entry-12397421866.html)&nbsp;（定食）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13023382/)】
 - [麻布 諒](https://ameblo.jp/choux-a-la-creme/entry-12439654632.html)&nbsp;（蟹料理）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13013995/)】
 - [別館あじと 麻布十番](https://ameblo.jp/choux-a-la-creme/entry-12400261505.html)&nbsp;（居酒屋）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13123375/)】
@@ -193,7 +193,7 @@
 - ★[お弁当 ぎん香](https://ameblo.jp/choux-a-la-creme/entry-12426921751.html)&nbsp;（お弁当）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13229619/)】
 - [Aile Blanche(エルブランシュ)](https://ameblo.jp/choux-a-la-creme/entry-12372327496.html) （フレンチ）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13039093/)】
 - [カーザ・ヴィニタリア](http://ameblo.jp/choux-a-la-creme/entry-12071474132.html) （イタリアン）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13010456/)】
-- ★[がいがい、(https://ameblo.jp/choux-a-la-creme/entry-12508579050.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13002838/)】
+- ★[がいがい、](https://ameblo.jp/choux-a-la-creme/entry-12508579050.html) （焼鳥）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13002838/)】
 - [カシュク](http://ameblo.jp/choux-a-la-creme/entry-12075050513.html) （トルコ料理）　【[食べログ](http://tabelog.com/tokyo/A1307/A130702/13054780/)】
 - [カフェ・フランジパニ](http://ameblo.jp/choux-a-la-creme/entry-12060501961.html) （カフェ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13012612/)】
 - [カフェ ラントマン](http://ameblo.jp/choux-a-la-creme/entry-12128627805.html) （欧風料理）　【[食べログ](http://tabelog.com/tokyo/A1306/A130602/13078534/)】
@@ -341,7 +341,7 @@
 
 ##### 京都市
 
-- ★[赤おに](https://ameblo.jp/choux-a-la-creme/entry-12543914106.html (居酒屋) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26008053/)】
+- ★[赤おに](https://ameblo.jp/choux-a-la-creme/entry-12543914106.html) (居酒屋) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26008053/)】
 
 #### 大阪府
 
