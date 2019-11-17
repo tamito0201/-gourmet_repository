@@ -579,6 +579,7 @@
 
 ##### 伊那市
 
+- [壱刻](https://ameblo.jp/choux-a-la-creme/entry-12545430966.html) （蕎麦）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20001285/)】
 - [うしお](https://ameblo.jp/choux-a-la-creme/entry-12542492875.html) （ローメン）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20000001/)】
 - [ＣＡ （シーエー）](https://ameblo.jp/choux-a-la-creme/entry-12545130226.html) （喫茶店）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20002213/)】
 - ★[コーヒーとサンドイッチ おかもと](https://ameblo.jp/choux-a-la-creme/entry-12542128385.html) （カフェ）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20020345/)】
