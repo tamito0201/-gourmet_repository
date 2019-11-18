@@ -584,5 +584,6 @@
 - [ＣＡ （シーエー）](https://ameblo.jp/choux-a-la-creme/entry-12545130226.html) （喫茶店）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20002213/)】
 - ★[コーヒーとサンドイッチ おかもと](https://ameblo.jp/choux-a-la-creme/entry-12542128385.html) （カフェ）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20020345/)】
 - [田村食堂](https://ameblo.jp/choux-a-la-creme/entry-12543051355.html) （ソースかつ丼）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20007182/)】
+- [焼肉のいたや](https://ameblo.jp/choux-a-la-creme/entry-12545487318.html))（馬肉）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20003749/)】
 
 written by たみと（たー）
