@@ -565,7 +565,7 @@
 #### 沖縄県
 
 - [榮料理店](https://ameblo.jp/choux-a-la-creme/entry-11646514788.html)（創作料理 )【[食べログ](https://tabelog.com/okinawa/A4703/A470302/47000907/)】
-- [碧](https://ameblo.jp/choux-a-la-creme/entry-11650293554.html)（鉄板焼）[ 【](http://http://ameblo.jp/choux-a-la-creme/entry-11650293554.html)[食べログ](http://tabelog.com/okinawa/A4701/A470103/47002224/)】
+- [碧](https://ameblo.jp/choux-a-la-creme/entry-11650293554.html)（鉄板焼）【[食べログ](http://http://ameblo.jp/choux-a-la-creme/entry-11650293554.html)[食べログ](http://tabelog.com/okinawa/A4701/A470103/47002224/)】
 
 ![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### その他地方
