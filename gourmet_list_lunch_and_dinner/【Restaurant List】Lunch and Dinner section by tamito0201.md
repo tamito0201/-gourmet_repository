@@ -581,8 +581,10 @@
 
 - ★[壱刻](https://ameblo.jp/choux-a-la-creme/entry-12545430966.html) （蕎麦）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20001285/)】
 - [うしお](https://ameblo.jp/choux-a-la-creme/entry-12542492875.html) （ローメン）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20000001/)】
+- ★[亀](https://ameblo.jp/choux-a-la-creme/entry-12553753860.html) （小料理）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20005971/)】
 - [ＣＡ （シーエー）](https://ameblo.jp/choux-a-la-creme/entry-12545130226.html) （喫茶店）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20002213/)】
 - ★[コーヒーとサンドイッチ おかもと](https://ameblo.jp/choux-a-la-creme/entry-12542128385.html) （カフェ）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20020345/)】
+- [桜や](https://ameblo.jp/choux-a-la-creme/entry-12554205004.html) （居酒屋）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20007562/)】
 - [田村食堂](https://ameblo.jp/choux-a-la-creme/entry-12543051355.html) （ソースかつ丼）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20007182/)】
 - ★[明治亭 駒ヶ根本店](https://ameblo.jp/choux-a-la-creme/entry-12551202000.html)（ソースかつ丼）　【[食べログ](https://tabelog.com/nagano/A2006/A200602/20000038/)】
 - [焼肉のいたや](https://ameblo.jp/choux-a-la-creme/entry-12545487318.html)（馬肉）　【[食べログ](https://tabelog.com/nagano/A2006/A200601/20003749/)】
