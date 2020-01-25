@@ -136,6 +136,7 @@
 #### 中央区
 
 - [魚竹](http://ameblo.jp/choux-a-la-creme/entry-11919315078.html) （魚料理） 【[食べログ](http://tabelog.com/tokyo/A1313/A131301/13002300/)】
+- ★[うな富](https://ameblo.jp/choux-a-la-creme/entry-12569903652.html) （うなぎ） 【[食べログ](https://tabelog.com/tokyo/A1302/A130204/13053589/)】
 - ★[SOYA （ソヤ）](https://ameblo.jp/choux-a-la-creme/entry-12478744249.html) （カフェ） 【[食べログ](https://tabelog.com/tokyo/A1302/A130202/13112210/)】
 - [中村藤吉本店 銀座店](https://ameblo.jp/choux-a-la-creme/entry-12368002279.html) （カフェ） 【[食べログ](https://tabelog.com/tokyo/A1301/A130101/13207589/)】
 - [バンゲラズ キッチン （Bangera's Kitchen）](https://ameblo.jp/choux-a-la-creme/entry-12432001624.html) （南インド料理） 【[食べログ](https://tabelog.com/tokyo/A1301/A130101/13217211/)】
