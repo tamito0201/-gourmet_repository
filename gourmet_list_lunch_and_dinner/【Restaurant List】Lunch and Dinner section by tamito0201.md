@@ -128,6 +128,7 @@
 - [愚直人](http://ameblo.jp/choux-a-la-creme/entry-11939665327.html) （中華料理） 【[食べログ](http://tabelog.com/tokyo/A1310/A131002/13166310/)】 **【閉店】**
 - [Skew （スキュー）](https://ameblo.jp/choux-a-la-creme/entry-12368130801.html) （イタリアン） 【[食べログ](https://tabelog.com/tokyo/A1301/A130102/13100899/)】
 - [セイロンドロップ](http://ameblo.jp/choux-a-la-creme/entry-12130010136.html) （カレー） 【[食べログ](http://tabelog.com/tokyo/A1310/A131003/13145566/)】
+- [谷や](https://ameblo.jp/choux-a-la-creme/entry-12570115668.html) （うどん） 【[食べログ](https://tabelog.com/tokyo/A1302/A130204/13114085/)】
 - [チャントーヤ ココナッツカリー](https://ameblo.jp/choux-a-la-creme/entry-12427456620.html) （カレー） 【[食べログ](https://tabelog.com/tokyo/A1310/A131002/13131134/)】
 - [もんじゃ　蔵](http://ameblo.jp/choux-a-la-creme/entry-11916842952.html) （もんじゃ） 【[食べログ](http://tabelog.com/tokyo/A1313/A131302/13029520/)】
 - ★[Le Beurre Noisette（ル・ブール・ノワゼット）](https://ameblo.jp/choux-a-la-creme/entry-12432250040.html) （ビストロ） 【[食べログ](https://tabelog.com/tokyo/A1301/A130102/13226770/)】
