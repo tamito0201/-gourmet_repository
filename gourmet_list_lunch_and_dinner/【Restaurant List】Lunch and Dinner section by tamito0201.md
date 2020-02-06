@@ -298,6 +298,10 @@
 - ★[玄海](https://ameblo.jp/choux-a-la-creme/entry-12490344102.html) （割烹）　【[食べログ](https://tabelog.com/tokyo/A1328/A132804/13081799/)
 - ★[デナリコーヒー](https://ameblo.jp/choux-a-la-creme/entry-12488599896.html) （喫茶）　【[食べログ](https://tabelog.com/tokyo/A1328/A132804/13137208/)
 
+#### 狛江市
+
+- ★[寿し処おお田](https://ameblo.jp/choux-a-la-creme/entry-12572309346.html) （寿司）　【[食べログ](https://tabelog.com/tokyo/A1326/A132603/13071323/)
+
 
 #### 八王子市
 
