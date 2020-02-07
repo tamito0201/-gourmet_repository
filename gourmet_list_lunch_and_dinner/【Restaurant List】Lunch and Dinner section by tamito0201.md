@@ -302,8 +302,8 @@
 
 #### 狛江市
 
+- ★[扇屋](https://ameblo.jp/choux-a-la-creme/entry-12572351425.html) （会席料理）　【[食べログ](https://tabelog.com/tokyo/A1326/A132603/13069864/)
 - ★[寿し処おお田](https://ameblo.jp/choux-a-la-creme/entry-12572309346.html) （寿司）　【[食べログ](https://tabelog.com/tokyo/A1326/A132603/13071323/)
-
 
 #### 八王子市
 
