@@ -358,6 +358,11 @@
 ##### 京都市
 
 - ★[赤おに](https://ameblo.jp/choux-a-la-creme/entry-12543914106.html) (居酒屋) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26008053/)】
+- [筑前](https://ameblo.jp/choux-a-la-creme/entry-12577393409.html) (定食) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26016529/)】
+- [月の蔵人](https://ameblo.jp/choux-a-la-creme/entry-12588974934.html) (京料理) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26002346/)】
+
+- ★[鳥房](https://ameblo.jp/choux-a-la-creme/entry-12577412964.html) (鶏料理) 【[食べログ](https://ameblo.jp/choux-a-la-creme/entry-12577412964.html)】
+- [ののまる商店](https://ameblo.jp/choux-a-la-creme/entry-12574290991.html) (居酒屋) 【[食べログ](https://tabelog.com/kyoto/A2601/A260601/26031732/)】
 
 #### 大阪府
 
