@@ -33,10 +33,10 @@
 
 #### 太田区
 
-- ★[丸一](https://ameblo.jp/choux-a-la-creme/entry-12358666651.html)&nbsp;（とんかつ） 【[食べログ](https://tabelog.com/tokyo/A1315/A131503/13017765/)】
-- [柏庵](https://ameblo.jp/choux-a-la-creme/entry-12402057069.html)&nbsp;（蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13011661/)】
-- ★[布恒更科](https://ameblo.jp/choux-a-la-creme/entry-12402082757.html)&nbsp;（蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13003331/)】
-- [洋食入舟](https://ameblo.jp/choux-a-la-creme/entry-12402114203.html)&nbsp;（洋食） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13003330/)】
+- ★[丸一](https://ameblo.jp/choux-a-la-creme/entry-12358666651.html) （とんかつ） 【[食べログ](https://tabelog.com/tokyo/A1315/A131503/13017765/)】
+- [柏庵](https://ameblo.jp/choux-a-la-creme/entry-12402057069.html) （蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13011661/)】
+- ★[布恒更科](https://ameblo.jp/choux-a-la-creme/entry-12402082757.html) （蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13003331/)】
+- [洋食入舟](https://ameblo.jp/choux-a-la-creme/entry-12402114203.html) （洋食） 【[食べログ](https://tabelog.com/tokyo/A1315/A131502/13003330/)】
 
 #### 葛飾区
 
