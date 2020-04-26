@@ -350,8 +350,6 @@
 
 - [弥満喜](https://ameblo.jp/choux-a-la-creme/entry-12452930726.html) （奥久慈しゃも）　【[食べログ](https://tabelog.com/ibaraki/A0805/A080503/8001341/)】
 
-![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
-
 ### 関西
 
 #### 京都府
@@ -371,7 +369,6 @@
 - ★[哲](https://ameblo.jp/choux-a-la-creme/entry-12392251383.html)&nbsp;（焼肉) 【[食べログ](https://tabelog.com/osaka/A2706/A270602/27019684/)】
 - ★[ジラソーレ リッコ （girasole RICCO）](https://ameblo.jp/choux-a-la-creme/entry-12391119517.html) (ピザ) 【[食べログ](https://tabelog.com/osaka/A2706/A270602/27069878/)】
 
-![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### 中国・四国
 
 #### 山口県
@@ -404,7 +401,6 @@
 #### 徳島県
 - [炭火焼鳥 鳥ぼん](https://ameblo.jp/choux-a-la-creme/entry-12257916119.html)（焼鳥） 【[食べログ](https://tabelog.com/tokushima/A3601/A360101/36000176/)】
 
-![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### 東北
 
 #### 福島県
@@ -432,7 +428,6 @@
 - ★[六兵衛](https://ameblo.jp/choux-a-la-creme/entry-12353997279.html)（郷土料理）　【[食べログ](https://tabelog.com/aomori/A0201/A020101/2000495/)】
 - ★[ゆうぎり](https://ameblo.jp/choux-a-la-creme/entry-12352954122.html) （郷土料理）　【[食べログ](https://tabelog.com/aomori/A0201/A020101/2000019/)】
 
-![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### 九州
 
 #### 福岡市中央区
@@ -589,7 +584,6 @@
 - [榮料理店](https://ameblo.jp/choux-a-la-creme/entry-11646514788.html)（創作料理 )【[食べログ](https://tabelog.com/okinawa/A4703/A470302/47000907/)】
 - [碧](https://ameblo.jp/choux-a-la-creme/entry-11650293554.html)（鉄板焼）【[食べログ](http://http://ameblo.jp/choux-a-la-creme/entry-11650293554.html)[食べログ](http://tabelog.com/okinawa/A4701/A470103/47002224/)】
 
-![t0r78hqbeu.png](https://img.esteem.ws/t0r78hqbeu.png)
 ### その他地方
 
 #### 山梨県
