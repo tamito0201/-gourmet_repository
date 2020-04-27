@@ -15,6 +15,7 @@
   - [千代田区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA)
   - [中央区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E4%B8%AD%E5%A4%AE%E5%8C%BA)
   - [豊島区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E8%B1%8A%E5%B3%B6%E5%8C%BA)
+  - [中野区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E8%B1%8A%E5%B3%B6%E5%8C%BA)
   - [文京区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E6%96%87%E4%BA%AC%E5%8C%BA)
   - [目黒区](https://github.com/tamito0201/gourmet_repository/blob/master/gourmet_list_lunch_and_dinner/%E3%80%90Restaurant%20List%E3%80%91Lunch%20and%20Dinner%20section%20by%20tamito0201.md#%E7%9B%AE%E9%BB%92%E5%8C%BA)
   - [国分寺市](https://bit.ly/3eNPAPE)
@@ -147,6 +148,10 @@
 
 - [ブラッスリー・ル・リオン](https://ameblo.jp/choux-a-la-creme/entry-12392316179.html) （ビストロ） 【[食べログ](https://tabelog.com/tokyo/A1305/A130501/13127431/)】
 - ★[馬車にのったモッツァレッラ](https://ameblo.jp/choux-a-la-creme/entry-12421037116.html) （イタリアン） 【[食べログ](https://tabelog.com/tokyo/A1305/A130501/13008919/)】
+
+#### 中野区
+
+- ★[煮込み屋ぐっつ](https://ameblo.jp/choux-a-la-creme/entry-12592927077.html) （居酒屋） 【[食べログ](https://tabelog.com/tokyo/A1319/A131902/13096688/)】
 
 #### 文京区
 
