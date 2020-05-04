@@ -340,6 +340,10 @@
 
 ##### 銚子市
 
+- [カフェ 樹の香](https://ameblo.jp/choux-a-la-creme/entry-12593932968.html) （カフェ）　【[食べログ](https://tabelog.com/chiba/A1207/A120704/12042595/)】
+
+#### 南房総市
+
 - [久六](http://ameblo.jp/choux-a-la-creme/entry-10015266148.html) （魚料理）　【[食べログ](http://bit.ly/c0dKqB)】
 
 ##### 安房郡
