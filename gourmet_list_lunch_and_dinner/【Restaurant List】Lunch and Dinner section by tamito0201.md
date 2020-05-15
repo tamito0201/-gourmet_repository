@@ -336,6 +336,10 @@
 
 - [久六](http://ameblo.jp/choux-a-la-creme/entry-10015266148.html) （魚料理）　【[食べログ](http://bit.ly/c0dKqB)】
 
+##### 南房総市 
+- [おさかな倶楽部](https://ameblo.jp/choux-a-la-creme/entry-12596014229.html) （魚料理）　【[食べログ](https://tabelog.com/chiba/A1207/A120704/12012106/)】
+- [カフェ 樹の香](https://ameblo.jp/choux-a-la-creme/entry-12593932968.html)　（カフェ）　【[食べログ](https://tabelog.com/chiba/A1207/A120704/12042595/)】
+
 ##### 安房郡
 - [ばんや](http://ameblo.jp/choux-a-la-creme/entry-10036146842.html) （魚料理）　【[食べログ](http://bit.ly/pbgrB)】
 
