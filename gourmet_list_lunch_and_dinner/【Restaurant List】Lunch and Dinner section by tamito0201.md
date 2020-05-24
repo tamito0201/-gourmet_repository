@@ -311,20 +311,24 @@
 - [高橋家](https://ameblo.jp/choux-a-la-creme/entry-12464418626.html) （蕎麦）　【[食べログ](https://tabelog.com/tokyo/A1329/A132905/13016415/)】
 
 #### 神奈川県
-
-##### 鎌倉市
-- [しらすや 腰越漁港前店](https://ameblo.jp/choux-a-la-creme/entry-12395719514.html) （しらす丼）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14002304/)】
-
 ##### 川崎市
 - ★[ふく屋](http://ameblo.jp/choux-a-la-creme/entry-12287009375.html) （とんかつ）　【[食べログ](https://tabelog.com/kanagawa/A1405/A140504/14040226/)】
-
-##### 藤沢市
-- ★[あさひ本店](https://ameblo.jp/choux-a-la-creme/entry-12393943863.html) （たこ煎餅）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14022338/)】
 
 ##### 横浜市
 - ★[珈琲ぱぁらー泉](https://ameblo.jp/choux-a-la-creme/entry-12564777348.html) （喫茶店) 　【[食べログ](https://tabelog.com/kanagawa/A1401/A140306/14014904/)】
 - [ハードロックカフェ　横浜店](http://ameblo.jp/choux-a-la-creme/entry-10021722680.html) （洋食・欧風料理）　【[食べログ](http://bit.ly/g0GyvZ)】
 - [ル・ジャルダン・ドゥ・ジュリアン](http://ameblo.jp/choux-a-la-creme/entry-10019789215.html) （カフェ・喫茶）　【[食べログ](http://bit.ly/9ifa6h)】 【閉店】
+
+##### 鎌倉市
+- [しらすや 腰越漁港前店](https://ameblo.jp/choux-a-la-creme/entry-12395719514.html) （しらす丼）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14002304/)】
+
+##### 茅ヶ崎市
+
+- ★[厚田村 （あつたむら）](https://ameblo.jp/choux-a-la-creme/entry-12598921028.html) （居酒屋）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140406/14007848/)】
+
+##### 藤沢市
+- ★[あさひ本店](https://ameblo.jp/choux-a-la-creme/entry-12393943863.html) （たこ煎餅）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14022338/)】
+
 
 #### 埼玉県
 
