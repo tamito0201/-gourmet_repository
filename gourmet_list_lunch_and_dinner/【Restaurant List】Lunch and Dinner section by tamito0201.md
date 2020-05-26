@@ -333,6 +333,7 @@
 
 - ★[厚田村 （あつたむら）](https://ameblo.jp/choux-a-la-creme/entry-12598921028.html) （居酒屋）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140406/14007848/)】
 - [熊や 本店](https://ameblo.jp/choux-a-la-creme/entry-12598931547.html) （魚料理）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140406/14025613/)】
+- ★[パリエッタ （paglietta）](https://ameblo.jp/choux-a-la-creme/entry-12598951275.html) （イタリアン）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140406/14042144/)】
 
 ##### 藤沢市
 - ★[あさひ本店](https://ameblo.jp/choux-a-la-creme/entry-12393943863.html) （たこ煎餅）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14022338/)】
