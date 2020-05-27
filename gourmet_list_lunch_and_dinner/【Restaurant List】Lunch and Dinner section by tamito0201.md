@@ -327,6 +327,7 @@
 
 ##### 鎌倉市
 
+- [こころや](https://ameblo.jp/choux-a-la-creme/entry-12599032361.html) （和食）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140401/14067133/)】
 - [しらすや 腰越漁港前店](https://ameblo.jp/choux-a-la-creme/entry-12395719514.html) （しらす丼）　【[食べログ](https://tabelog.com/kanagawa/A1404/A140403/14002304/)】
 
 ##### 茅ヶ崎市
