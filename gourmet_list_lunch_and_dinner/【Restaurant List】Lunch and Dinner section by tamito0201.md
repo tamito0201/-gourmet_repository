@@ -146,6 +146,7 @@
 
 #### 豊島区
 
+- ★[喜代○](https://ameblo.jp/choux-a-la-creme/entry-12600751308.html) （小料理） 【[食べログ](https://tabelog.com/tokyo/A1305/A130502/13110593/)】
 - [ブラッスリー・ル・リオン](https://ameblo.jp/choux-a-la-creme/entry-12392316179.html) （ビストロ） 【[食べログ](https://tabelog.com/tokyo/A1305/A130501/13127431/)】
 - ★[馬車にのったモッツァレッラ](https://ameblo.jp/choux-a-la-creme/entry-12421037116.html) （イタリアン） 【[食べログ](https://tabelog.com/tokyo/A1305/A130501/13008919/)】
 
