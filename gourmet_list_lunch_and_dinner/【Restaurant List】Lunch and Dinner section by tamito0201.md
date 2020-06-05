@@ -208,7 +208,7 @@
 - [カフェ・フランジパニ](http://ameblo.jp/choux-a-la-creme/entry-12060501961.html) （カフェ）　【[食べログ](http://tabelog.com/tokyo/A1307/A130701/13012612/)】
 - [カフェ ラントマン](http://ameblo.jp/choux-a-la-creme/entry-12128627805.html) （欧風料理）　【[食べログ](http://tabelog.com/tokyo/A1306/A130602/13078534/)】
 - ★[カブ&nbsp;西麻布](https://ameblo.jp/choux-a-la-creme/entry-12373830427.html)&nbsp;（天ぷら）　【[食べログ](https://tabelog.com/tokyo/A1307/A130701/13194277/)】
-- [兜 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12600768308.html)
+- ★[兜 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12600768308.html)
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-12600768308.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12600768308.html" target="_blank">②</a>)&nbsp;</font></font></font> （焼肉）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<a href="https://tabelog.com/tokyo/A1307/A130702/13162115/" target="_blank">食べログ</a>】</font></font></font>
 【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13162115/)】
