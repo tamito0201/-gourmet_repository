@@ -211,7 +211,6 @@
 - ★[兜 麻布十番店](https://ameblo.jp/choux-a-la-creme/entry-12600768308.html)
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;（<a href="https://ameblo.jp/choux-a-la-creme/entry-12600768308.html" target="_blank">➀</a>、<a href="https://ameblo.jp/choux-a-la-creme/entry-12600768308.html" target="_blank">②</a>)&nbsp;</font></font></font> （焼肉）
 <font color="#333300" target="_blank"><font color="#333300" target="_blank"><font color="#333300" target="_blank">&nbsp;【<a href="https://tabelog.com/tokyo/A1307/A130702/13162115/" target="_blank">食べログ</a>】</font></font></font>
-【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13162115/)】
 - [キッチンふるはし](https://ameblo.jp/choux-a-la-creme/entry-12358193498.html) （洋食）　【[食べログ](https://tabelog.com/tokyo/A1307/A130703/13007157/)】
 - [京寿々](https://ameblo.jp/choux-a-la-creme/entry-12453859686.html) （うどん）　【[食べログ](https://tabelog.com/tokyo/A1307/A130702/13179453/)】
 - ★[金舌 赤坂](https://ameblo.jp/choux-a-la-creme/entry-12444482846.html "This link will take you away from steemit.com")&nbsp;（焼肉）　【[食べログ](https://tabelog.com/tokyo/A1308/A130801/13080895/)】
