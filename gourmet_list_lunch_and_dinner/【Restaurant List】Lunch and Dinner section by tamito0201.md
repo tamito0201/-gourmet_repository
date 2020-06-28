@@ -154,6 +154,7 @@
 
 - ★[煮込み屋ぐっつ](https://ameblo.jp/choux-a-la-creme/entry-12592927077.html) （居酒屋） 【[食べログ](https://tabelog.com/tokyo/A1319/A131902/13096688/)】
 - ★[フランキーアンドトリニティー （FRANKY & TRINITY](https://ameblo.jp/choux-a-la-creme/entry-12605698279.html) （オムライス） 【[食べログ](https://tabelog.com/tokyo/A1319/A131903/13046008/)】
+- ★[ら すとらあだ](https://ameblo.jp/choux-a-la-creme/entry-12607182966.html) （蕎麦） 【[食べログ](https://tabelog.com/tokyo/A1319/A131903/13141774/)】
 
 #### 文京区
 
