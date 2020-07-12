@@ -53,10 +53,11 @@
 
 - ★[インドアジアンレストラン ダルハラ](https://ameblo.jp/choux-a-la-creme/entry-12406749147.html) （インドカレー） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13190455/)】
 - [圭助 門前仲町](https://ameblo.jp/choux-a-la-creme/entry-12406832920.html) （牛タン） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13136658/)】
-- ★[プラスアルファキッチン](https://ameblo.jp/choux-a-la-creme/entry-12406763249.html) （肉バル） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13180864/)】
 - ★[近為](https://ameblo.jp/choux-a-la-creme/entry-12407047949.html)&nbsp;（京漬物） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13003005/)】
-- [深川宿 八幡店](https://ameblo.jp/choux-a-la-creme/entry-12405394898.html) （深川飯） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13033282/)】
 - [長寿庵](https://ameblo.jp/choux-a-la-creme/entry-12405595241.html) （定食） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13135554/)】
+- [深川宿 八幡店](https://ameblo.jp/choux-a-la-creme/entry-12405394898.html) （深川飯） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13033282/)】
+- ★[プラスアルファキッチン](https://ameblo.jp/choux-a-la-creme/entry-12406763249.html) （肉バル） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13180864/)】
+- [平太 （へいた）](https://ameblo.jp/choux-a-la-creme/entry-12610280832.html) （とんかつ） 【[食べログ](https://tabelog.com/tokyo/A1312/A131202/13008100/)】
 
 #### 品川区
 
