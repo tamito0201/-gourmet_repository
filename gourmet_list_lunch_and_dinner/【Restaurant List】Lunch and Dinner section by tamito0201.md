@@ -58,6 +58,7 @@
 - [深川宿 八幡店](https://ameblo.jp/choux-a-la-creme/entry-12405394898.html) （深川飯） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13033282/)】
 - ★[プラスアルファキッチン](https://ameblo.jp/choux-a-la-creme/entry-12406763249.html) （肉バル） 【[食べログ](https://tabelog.com/tokyo/A1313/A131303/13180864/)】
 - [平太 （へいた）](https://ameblo.jp/choux-a-la-creme/entry-12610280832.html) （とんかつ） 【[食べログ](https://tabelog.com/tokyo/A1312/A131202/13008100/)】
+- ★[與兵衛 （与兵衛 よへい）](https://ameblo.jp/choux-a-la-creme/entry-12610521532.html) （寿司） 【[食べログ](https://tabelog.com/tokyo/A1312/A131202/13003079/)】
 
 #### 品川区
 
